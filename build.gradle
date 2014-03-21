@@ -1,0 +1,129 @@
+apply plugin: 'java'
+apply plugin: 'eclipse'
+apply plugin: 'war'
+apply plugin: 'jetty'
+
+sourceCompatibility = 1.6
+targetCompatibility = 1.6
+ repositories {
+     mavenCentral()
+ }
+
+ backupFolder = '/opt/backup'
+
+ SPRING_VERSION='3.1.0.RELEASE'
+ SLF4J_VERSION = '1.6.4'
+
+ configurations {
+    sshAntTask
+ }
+
+ 
+ dependencies { 
+     sshAntTask 'org.apache.ant:ant-jsch:1.7.1', 'jsch:jsch:0.1.29'
+
+    compile "org.slf4j:slf4j-api:${SLF4J_VERSION}"
+    compile "org.slf4j:slf4j-log4j12:${SLF4J_VERSION}"
+  
+    compile("log4j:log4j:1.2.15") {
+	    exclude(module: 'mail')
+		exclude(module: 'jms')
+		exclude(module: 'jmxtools')
+		exclude(module: 'jmxri')
+	}
+	
+    compile "org.springframework:spring-webmvc:${SPRING_VERSION}"
+    compile("org.springframework:spring-context:${SPRING_VERSION}") {
+		exclude(module: 'commons-logging')
+    }
+    compile "org.springframework:spring-tx:${SPRING_VERSION}"
+    compile "org.springframework:spring-orm:${SPRING_VERSION}"
+    compile "org.springframework:spring-expression:${SPRING_VERSION}"
+	
+    compile "javax.servlet:servlet-api:2.5"
+    compile "commons-io:commons-io:2.1"
+    compile 'org.apache.poi:poi:3.5-FINAL'
+	
+    runtime "org.glassfish.web:el-impl:2.2"
+    runtime "javax.servlet.jsp:jsp-api:2.1"
+    runtime "javax.servlet:jstl:1.2"
+    runtime "javax.el:el-api:2.2"
+    runtime "org.mortbay.jetty:jetty:6.1.26"
+    runtime "org.mortbay.jetty:jsp-2.1-jetty:6.1.26"
+    runtime "org.mortbay.jetty:jetty-plus:6.1.26"
+	
+	
+    testCompile "org.mockito:mockito-all:1.8.5"
+    testCompile "junit:junit:4.8.1"
+    testCompile "org.hamcrest:hamcrest-integration:1.2.1"
+    testCompile "javax.comm:comm:2.0.3"
+ }
+
+
+ eclipse.classpath.file {
+    beforeMerged { classpath ->
+	//classpath.entries.add(files("/project/xx"))
+    }
+ }
+
+ task "create-dirs" << {
+   sourceSets*.java.srcDirs*.each { it.mkdirs() }
+   sourceSets*.resources.srcDirs*.each { it.mkdirs() }
+ }
+
+ task copyJars(type: Copy) {
+    from configurations.runtime
+    into 'libs'
+ }
+ 
+ task backup << {
+     timestamp = System.currentTimeMillis()
+     timestamp = ""
+     ant.mkdir(dir: backupFolder)
+     ant.jar( destfile: backupFolder + "/backlog-card" + timestamp + ".zip") {
+             fileset(dir: './') {
+                 exclude(name:"**/*.class"  )
+                 exclude(name:"**/*.jar"    )
+                 exclude(name:"**/.settings/**" )
+                 exclude(name:"**/.classpath"    )
+                 exclude(name:"**/.project")
+                 exclude(name:"**/*.svn"    )
+                 exclude(name:"**/*.bin"    )
+                 exclude(name:"**/*.lock"   )
+                 exclude(name:"**/*.prefs"  )
+                 exclude(name:"**/*.git"    )
+                 exclude(name:"**/*.upload" )
+                 exclude(name:"**/*.log"    )
+                 exclude(name:"**/target/**")
+                 exclude(name:"**/logs/**"  )
+                 exclude(name:"**/db/**"    )
+                 exclude(name:"**/bin/**"    )
+                 exclude(name:"**/backup/**")
+                 exclude(name:"**/release/**" )
+                 exclude(name:"**/tools/**" )
+                 exclude(name:"**/build/**" )
+                 exclude(name:"**/builds/package/**" )
+                 exclude(name:"**/.gradle/**"   )
+                 exclude(name:"**/.git/**"  )
+             }
+         }
+  }
+ 
+ task installProxy << {
+     copy {
+      from './gradle.properties'
+      into '/home/cms/.gradle/gradle.properties'
+     }
+ }
+
+ task upWeb << {
+	ant.taskdef(name: 'scp', classname: 'org.apache.tools.ant.taskdefs.optional.ssh.Scp', classpath: configurations.sshAntTask.asPath)
+
+	ant.scp(password: "1111",
+			trust: "true",
+			todir: "toy@147.128.104.80:/work/infolet/map-demo/src/main/webapp"
+			) {
+				fileset(dir: 'src/main/webapp') {
+				}
+			}
+}

@@ -1,0 +1,2131 @@
+<programme Ericsson_ProgramId="10086_20140311110000_12421196" channel="10086" start="20140311110000 +0000" stop="20140311113000 +0000">
+<title lang="en">
+Stratusphere</title><sub-title lang="en">
+Paragliding in North India</sub-title><desc lang="en">
+Trish goes paragliding in the Indian state of Uttarakhand.</desc><credits/>
+<date>
+2009</date><category lang="en">
+travel</category><language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+30</length><country>
+CA</country><episode-num system="onscreen"/>
+<video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+none</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+8371861</seriesId></programme><programme Ericsson_ProgramId="10086_20140311140000_12421196" channel="10086" start="20140311140000 +0000" stop="20140311143000 +0000">
+<title lang="en">
+Stratusphere</title><sub-title lang="en">
+Paragliding in North India</sub-title><desc lang="en">
+Trish goes paragliding in the Indian state of Uttarakhand.</desc><credits/>
+<date>
+2009</date><category lang="en">
+travel</category><language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+30</length><country>
+CA</country><episode-num system="onscreen"/>
+<video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+none</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+8371861</seriesId></programme><programme Ericsson_ProgramId="10086_20140311230000_12421196" channel="10086" start="20140311230000 +0000" stop="20140311233000 +0000">
+<title lang="en">
+Stratusphere</title><sub-title lang="en">
+Paragliding in North India</sub-title><desc lang="en">
+Trish goes paragliding in the Indian state of Uttarakhand.</desc><credits/>
+<date>
+2009</date><category lang="en">
+travel</category><language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+30</length><country>
+CA</country><episode-num system="onscreen"/>
+<video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+none</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+8371861</seriesId></programme><programme Ericsson_ProgramId="10086_20140311020000_12936986" channel="10086" start="20140311020000 +0000" stop="20140311023000 +0000">
+<title lang="en">
+1 Girl 5 Gays</title><sub-title lang="en"/>
+<desc lang="en">
+Viewers share their romantic conflicts, which are then discussed by a female host and a panel of gay men.</desc><credits/>
+<date>
+2010</date><category lang="en">
+talk</category><category lang="en">
+gay and lesbian</category><language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+30</length><country>
+CA</country><episode-num system="onscreen"/>
+<video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+18+</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+12936986</seriesId></programme><programme Ericsson_ProgramId="10086_20140311023000_12936986" channel="10086" start="20140311023000 +0000" stop="20140311030000 +0000">
+<title lang="en">
+1 Girl 5 Gays</title><sub-title lang="en"/>
+<desc lang="en">
+Viewers share their romantic conflicts, which are then discussed by a female host and a panel of gay men.</desc><credits/>
+<date>
+2010</date><category lang="en">
+talk</category><category lang="en">
+gay and lesbian</category><language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+30</length><country>
+CA</country><episode-num system="onscreen"/>
+<video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+18+</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+12936986</seriesId></programme><programme Ericsson_ProgramId="10086_20140312020000_12936986" channel="10086" start="20140312020000 +0000" stop="20140312023000 +0000">
+<title lang="en">
+1 Girl 5 Gays</title><sub-title lang="en"/>
+<desc lang="en">
+Viewers share their romantic conflicts, which are then discussed by a female host and a panel of gay men.</desc><credits/>
+<date>
+2010</date><category lang="en">
+talk</category><category lang="en">
+gay and lesbian</category><language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+30</length><country>
+CA</country><episode-num system="onscreen"/>
+<video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+18+</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+12936986</seriesId></programme><programme Ericsson_ProgramId="10086_20140312023000_12936986" channel="10086" start="20140312023000 +0000" stop="20140312030000 +0000">
+<title lang="en">
+1 Girl 5 Gays</title><sub-title lang="en"/>
+<desc lang="en">
+Viewers share their romantic conflicts, which are then discussed by a female host and a panel of gay men.</desc><credits/>
+<date>
+2010</date><category lang="en">
+talk</category><category lang="en">
+gay and lesbian</category><language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+30</length><country>
+CA</country><episode-num system="onscreen"/>
+<video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+18+</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+12936986</seriesId></programme><programme Ericsson_ProgramId="10086_20140310170000_19015058" channel="10086" start="20140310170000 +0000" stop="20140310180000 +0000">
+<title lang="en">
+Joan & Melissa: Joan Knows Best?</title><sub-title lang="en">
+Family Feud</sub-title><desc lang="en">
+Tension between Joan and Melissa rises as Joan continually overshares personal details, including during a meeting with gossip columnist Perez Hilton.</desc><credits/>
+<date>
+2011</date><category lang="en">
+reality</category><language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+60</length><country>
+US</country><episode-num system="onscreen">
+104</episode-num><video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+1080i</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+14+</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+18865187</seriesId></programme><programme Ericsson_ProgramId="10086_20140311070000_19015058" channel="10086" start="20140311070000 +0000" stop="20140311080000 +0000">
+<title lang="en">
+Joan & Melissa: Joan Knows Best?</title><sub-title lang="en">
+Family Feud</sub-title><desc lang="en">
+Tension between Joan and Melissa rises as Joan continually overshares personal details, including during a meeting with gossip columnist Perez Hilton.</desc><credits/>
+<date>
+2011</date><category lang="en">
+reality</category><language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+60</length><country>
+US</country><episode-num system="onscreen">
+104</episode-num><video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+1080i</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+14+</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+18865187</seriesId></programme><programme Ericsson_ProgramId="10086_20140311170000_19038209" channel="10086" start="20140311170000 +0000" stop="20140311180000 +0000">
+<title lang="en">
+Joan & Melissa: Joan Knows Best?</title><sub-title lang="en">
+Can We Not Talk?</sub-title><desc lang="en">
+Joan and Melissa aren't speaking after their fight. Joan flies back to New York for a TV appearance and to show her apartment. Back in L.A., Melissa holds a business meeting without Joan's help.</desc><credits/>
+<date>
+2011</date><category lang="en">
+reality</category><language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+60</length><country>
+US</country><episode-num system="onscreen">
+105</episode-num><video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+1080i</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+14+</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+18865187</seriesId></programme><programme Ericsson_ProgramId="10086_20140312070000_19038209" channel="10086" start="20140312070000 +0000" stop="20140312080000 +0000">
+<title lang="en">
+Joan & Melissa: Joan Knows Best?</title><sub-title lang="en">
+Can We Not Talk?</sub-title><desc lang="en">
+Joan and Melissa aren't speaking after their fight. Joan flies back to New York for a TV appearance and to show her apartment. Back in L.A., Melissa holds a business meeting without Joan's help.</desc><credits/>
+<date>
+2011</date><category lang="en">
+reality</category><language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+60</length><country>
+US</country><episode-num system="onscreen">
+105</episode-num><video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+1080i</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+14+</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+18865187</seriesId></programme><programme Ericsson_ProgramId="10086_20140311103000_19224436" channel="10086" start="20140311103000 +0000" stop="20140311110000 +0000">
+<title lang="en">
+RAW</title><sub-title lang="en">
+Stella McCartney Spring 2011</sub-title><desc lang="en">
+Stella McCartney unveils her Spring 2011 collection during Paris Fashion Week.</desc><credits/>
+<date>
+2011</date><category lang="en">
+fashion</category><language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+30</length><country>
+CA</country><episode-num system="onscreen"/>
+<video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+14+</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+4680863</seriesId></programme><programme Ericsson_ProgramId="10086_20140311133000_19224436" channel="10086" start="20140311133000 +0000" stop="20140311140000 +0000">
+<title lang="en">
+RAW</title><sub-title lang="en">
+Stella McCartney Spring 2011</sub-title><desc lang="en">
+Stella McCartney unveils her Spring 2011 collection during Paris Fashion Week.</desc><credits/>
+<date>
+2011</date><category lang="en">
+fashion</category><language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+30</length><country>
+CA</country><episode-num system="onscreen"/>
+<video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+14+</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+4680863</seriesId></programme><programme Ericsson_ProgramId="10086_20140311163000_19224436" channel="10086" start="20140311163000 +0000" stop="20140311170000 +0000">
+<title lang="en">
+RAW</title><sub-title lang="en">
+Stella McCartney Spring 2011</sub-title><desc lang="en">
+Stella McCartney unveils her Spring 2011 collection during Paris Fashion Week.</desc><credits/>
+<date>
+2011</date><category lang="en">
+fashion</category><language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+30</length><country>
+CA</country><episode-num system="onscreen"/>
+<video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+14+</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+4680863</seriesId></programme><programme Ericsson_ProgramId="10086_20140310100000_19452240" channel="10086" start="20140310100000 +0000" stop="20140310103000 +0000">
+<title lang="en">
+RAW</title><sub-title lang="en">
+Sarah Burton for Alexander McQueen</sub-title><desc lang="en">
+An Alexander McQueen collection, designed by Sarah Burton, is unveiled at Paris Fashion Week.</desc><credits/>
+<date>
+2011</date><category lang="en">
+fashion</category><language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+30</length><country>
+CA</country><episode-num system="onscreen">
+10-21</episode-num><video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+14+</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+4680863</seriesId></programme><programme Ericsson_ProgramId="10086_20140310130000_19452240" channel="10086" start="20140310130000 +0000" stop="20140310133000 +0000">
+<title lang="en">
+RAW</title><sub-title lang="en">
+Sarah Burton for Alexander McQueen</sub-title><desc lang="en">
+An Alexander McQueen collection, designed by Sarah Burton, is unveiled at Paris Fashion Week.</desc><credits/>
+<date>
+2011</date><category lang="en">
+fashion</category><language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+30</length><country>
+CA</country><episode-num system="onscreen">
+10-21</episode-num><video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+14+</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+4680863</seriesId></programme><programme Ericsson_ProgramId="10086_20140310160000_19452240" channel="10086" start="20140310160000 +0000" stop="20140310163000 +0000">
+<title lang="en">
+RAW</title><sub-title lang="en">
+Sarah Burton for Alexander McQueen</sub-title><desc lang="en">
+An Alexander McQueen collection, designed by Sarah Burton, is unveiled at Paris Fashion Week.</desc><credits/>
+<date>
+2011</date><category lang="en">
+fashion</category><language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+30</length><country>
+CA</country><episode-num system="onscreen">
+10-21</episode-num><video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+14+</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+4680863</seriesId></programme><programme Ericsson_ProgramId="10086_20140311100000_19471214" channel="10086" start="20140311100000 +0000" stop="20140311103000 +0000">
+<title lang="en">
+RAW</title><sub-title lang="en">
+Dior Fall-Winter 2011</sub-title><desc lang="en">
+Christian Dior at Paris Fashion Week.</desc><credits/>
+<date>
+2011</date><category lang="en">
+fashion</category><language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+30</length><country>
+CA</country><episode-num system="onscreen">
+10-23</episode-num><video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+14+</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+4680863</seriesId></programme><programme Ericsson_ProgramId="10086_20140311130000_19471214" channel="10086" start="20140311130000 +0000" stop="20140311133000 +0000">
+<title lang="en">
+RAW</title><sub-title lang="en">
+Dior Fall-Winter 2011</sub-title><desc lang="en">
+Christian Dior at Paris Fashion Week.</desc><credits/>
+<date>
+2011</date><category lang="en">
+fashion</category><language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+30</length><country>
+CA</country><episode-num system="onscreen">
+10-23</episode-num><video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+14+</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+4680863</seriesId></programme><programme Ericsson_ProgramId="10086_20140311160000_19471214" channel="10086" start="20140311160000 +0000" stop="20140311163000 +0000">
+<title lang="en">
+RAW</title><sub-title lang="en">
+Dior Fall-Winter 2011</sub-title><desc lang="en">
+Christian Dior at Paris Fashion Week.</desc><credits/>
+<date>
+2011</date><category lang="en">
+fashion</category><language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+30</length><country>
+CA</country><episode-num system="onscreen">
+10-23</episode-num><video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+14+</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+4680863</seriesId></programme><programme Ericsson_ProgramId="10086_20140310103000_19631777" channel="10086" start="20140310103000 +0000" stop="20140310110000 +0000">
+<title lang="en">
+RAW</title><sub-title lang="en">
+Viktor and Rolf; Julien Macdonald Fall-Winter 2011</sub-title><desc lang="en">
+Viktor & Rolf at Paris Fashion Week; Julien Macdonald at London Fashion Week.</desc><credits/>
+<date>
+2011</date><category lang="en">
+fashion</category><language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+30</length><country>
+CA</country><episode-num system="onscreen">
+10-22</episode-num><video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+14+</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+4680863</seriesId></programme><programme Ericsson_ProgramId="10086_20140310133000_19631777" channel="10086" start="20140310133000 +0000" stop="20140310140000 +0000">
+<title lang="en">
+RAW</title><sub-title lang="en">
+Viktor and Rolf; Julien Macdonald Fall-Winter 2011</sub-title><desc lang="en">
+Viktor & Rolf at Paris Fashion Week; Julien Macdonald at London Fashion Week.</desc><credits/>
+<date>
+2011</date><category lang="en">
+fashion</category><language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+30</length><country>
+CA</country><episode-num system="onscreen">
+10-22</episode-num><video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+14+</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+4680863</seriesId></programme><programme Ericsson_ProgramId="10086_20140310163000_19631777" channel="10086" start="20140310163000 +0000" stop="20140310170000 +0000">
+<title lang="en">
+RAW</title><sub-title lang="en">
+Viktor and Rolf; Julien Macdonald Fall-Winter 2011</sub-title><desc lang="en">
+Viktor & Rolf at Paris Fashion Week; Julien Macdonald at London Fashion Week.</desc><credits/>
+<date>
+2011</date><category lang="en">
+fashion</category><language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+30</length><country>
+CA</country><episode-num system="onscreen">
+10-22</episode-num><video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+14+</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+4680863</seriesId></programme><programme Ericsson_ProgramId="10086_20140310110000_19939640" channel="10086" start="20140310110000 +0000" stop="20140310113000 +0000">
+<title lang="en">
+Born to Be</title><sub-title lang="en">
+Joe Jonas</sub-title><credits/>
+<date>
+2011</date><category lang="en">
+entertainment</category><category lang="en">
+interview</category><category lang="en">
+music</category><category lang="en">
+music videos</category><category lang="en">
+profile</category><language>
+en</language><length units="minutes">
+30</length><country>
+CA</country><episode-num system="onscreen"/>
+<video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+HD Level Unknown</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+G</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+4843207</seriesId></programme><programme Ericsson_ProgramId="10086_20140310140000_19939640" channel="10086" start="20140310140000 +0000" stop="20140310143000 +0000">
+<title lang="en">
+Born to Be</title><sub-title lang="en">
+Joe Jonas</sub-title><credits/>
+<date>
+2011</date><category lang="en">
+entertainment</category><category lang="en">
+interview</category><category lang="en">
+music</category><category lang="en">
+music videos</category><category lang="en">
+profile</category><language>
+en</language><length units="minutes">
+30</length><country>
+CA</country><episode-num system="onscreen"/>
+<video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+HD Level Unknown</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+G</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+4843207</seriesId></programme><programme Ericsson_ProgramId="10086_20140310230000_19939640" channel="10086" start="20140310230000 +0000" stop="20140310233000 +0000">
+<title lang="en">
+Born to Be</title><sub-title lang="en">
+Joe Jonas</sub-title><credits/>
+<date>
+2011</date><category lang="en">
+entertainment</category><category lang="en">
+interview</category><category lang="en">
+music</category><category lang="en">
+music videos</category><category lang="en">
+profile</category><language>
+en</language><length units="minutes">
+30</length><country>
+CA</country><episode-num system="onscreen"/>
+<video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+HD Level Unknown</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+G</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+4843207</seriesId></programme><programme Ericsson_ProgramId="10086_20140311183000_20457284" channel="10086" start="20140311183000 +0000" stop="20140311190000 +0000">
+<title lang="en">
+Styled by June</title><sub-title lang="en">
+Shanna Moakler</sub-title><desc lang="en">
+In the Season 1 finale, reality personality and former beauty queen Shanna Moakler seeks June's help to reinvent her image.</desc><credits/>
+<date>
+2012</date><category lang="en">
+reality</category><category lang="en">
+fashion</category><language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+30</length><url>
+http://www.vh1.com/shows/styled_by_june/series.jhtml</url><country>
+US</country><episode-num system="onscreen">
+107</episode-num><video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+PG</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+20338596</seriesId></programme><programme Ericsson_ProgramId="10086_20140312053000_20457284" channel="10086" start="20140312053000 +0000" stop="20140312060000 +0000">
+<title lang="en">
+Styled by June</title><sub-title lang="en">
+Shanna Moakler</sub-title><desc lang="en">
+In the Season 1 finale, reality personality and former beauty queen Shanna Moakler seeks June's help to reinvent her image.</desc><credits/>
+<date>
+2012</date><category lang="en">
+reality</category><category lang="en">
+fashion</category><language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+30</length><url>
+http://www.vh1.com/shows/styled_by_june/series.jhtml</url><country>
+US</country><episode-num system="onscreen">
+107</episode-num><video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+PG</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+20338596</seriesId></programme><programme Ericsson_ProgramId="10086_20140311000000_20587931" channel="10086" start="20140311000000 +0000" stop="20140311010000 +0000">
+<title lang="en">
+Bethenny</title><sub-title lang="en"/>
+<desc lang="en">
+A variety show featuring discussions of topics geared toward women, including relationships, beauty, fitness and pop culture.</desc><credits/>
+<date>
+2012</date><category lang="en">
+talk</category><language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+60</length><url>
+http://www.bethennytv.com/</url><country>
+US</country><episode-num system="onscreen"/>
+<video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+HD Level Unknown</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+14+</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+20587931</seriesId></programme><programme Ericsson_ProgramId="10086_20140312000000_20587931" channel="10086" start="20140312000000 +0000" stop="20140312010000 +0000">
+<title lang="en">
+Bethenny</title><sub-title lang="en"/>
+<desc lang="en">
+A variety show featuring discussions of topics geared toward women, including relationships, beauty, fitness and pop culture.</desc><credits/>
+<date>
+2012</date><category lang="en">
+talk</category><language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+60</length><url>
+http://www.bethennytv.com/</url><country>
+US</country><episode-num system="onscreen"/>
+<video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+HD Level Unknown</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+14+</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+20587931</seriesId></programme><programme Ericsson_ProgramId="10086_20140311190000_22092546" channel="10086" start="20140311190000 +0000" stop="20140311200000 +0000">
+<title lang="en">
+XOX Betsey Johnson</title><sub-title lang="en">
+Ny Stakes & La Quakes!</sub-title><desc lang="en">
+Betsey searches for 30 models to take part in a show on the East Coast, while making preparations for an appearance on the West Coast.</desc><credits/>
+<date>
+2013</date><category lang="en">
+reality</category><category lang="en">
+fashion</category><language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+60</length><url>
+http://www.stylenetwork.com/tv-shows/xox-betsey-johnson</url><country>
+US</country><episode-num system="onscreen">
+104</episode-num><video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+HD Level Unknown</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+PG</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+21994479</seriesId></programme><programme Ericsson_ProgramId="10086_20140312060000_22092546" channel="10086" start="20140312060000 +0000" stop="20140312070000 +0000">
+<title lang="en">
+XOX Betsey Johnson</title><sub-title lang="en">
+Ny Stakes & La Quakes!</sub-title><desc lang="en">
+Betsey searches for 30 models to take part in a show on the East Coast, while making preparations for an appearance on the West Coast.</desc><credits/>
+<date>
+2013</date><category lang="en">
+reality</category><category lang="en">
+fashion</category><language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+60</length><url>
+http://www.stylenetwork.com/tv-shows/xox-betsey-johnson</url><country>
+US</country><episode-num system="onscreen">
+104</episode-num><video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+HD Level Unknown</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+PG</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+21994479</seriesId></programme><programme Ericsson_ProgramId="10086_20140310200000_22373771" channel="10086" start="20140310200000 +0000" stop="20140310210000 +0000">
+<title lang="en">
+Tia & Tamera</title><sub-title lang="en">
+The House Always Wins</sub-title><credits/>
+<date>
+2013</date><category lang="en">
+reality</category><category lang="en">
+spin-off</category><language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+60</length><url>
+http://www.mystyle.com/mystyle/shows/tiaandtamera/index.jsp</url><country>
+US</country><episode-num system="onscreen">
+303</episode-num><video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+HD Level Unknown</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+PG</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+19627056</seriesId></programme><programme Ericsson_ProgramId="10086_20140311040000_22373771" channel="10086" start="20140311040000 +0000" stop="20140311050000 +0000">
+<title lang="en">
+Tia & Tamera</title><sub-title lang="en">
+The House Always Wins</sub-title><credits/>
+<date>
+2013</date><category lang="en">
+reality</category><category lang="en">
+spin-off</category><language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+60</length><url>
+http://www.mystyle.com/mystyle/shows/tiaandtamera/index.jsp</url><country>
+US</country><episode-num system="onscreen">
+303</episode-num><video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+HD Level Unknown</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+PG</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+19627056</seriesId></programme><programme Ericsson_ProgramId="10086_20140311200000_22412893" channel="10086" start="20140311200000 +0000" stop="20140311210000 +0000">
+<title lang="en">
+Tia & Tamera</title><sub-title lang="en">
+Sistervention</sub-title><desc lang="en">
+Tamera misses Tia's pilot party for health reasons; Jerome takes Tia zip-lining; Tia attempts to change Tamera's wardrobe.</desc><credits/>
+<date>
+2013</date><category lang="en">
+reality</category><category lang="en">
+spin-off</category><language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+60</length><url>
+http://www.mystyle.com/mystyle/shows/tiaandtamera/index.jsp</url><country>
+US</country><episode-num system="onscreen">
+304</episode-num><video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+HD Level Unknown</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+PG</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+19627056</seriesId></programme><programme Ericsson_ProgramId="10086_20140312040000_22412893" channel="10086" start="20140312040000 +0000" stop="20140312050000 +0000">
+<title lang="en">
+Tia & Tamera</title><sub-title lang="en">
+Sistervention</sub-title><desc lang="en">
+Tamera misses Tia's pilot party for health reasons; Jerome takes Tia zip-lining; Tia attempts to change Tamera's wardrobe.</desc><credits/>
+<date>
+2013</date><category lang="en">
+reality</category><category lang="en">
+spin-off</category><language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+60</length><url>
+http://www.mystyle.com/mystyle/shows/tiaandtamera/index.jsp</url><country>
+US</country><episode-num system="onscreen">
+304</episode-num><video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+HD Level Unknown</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+PG</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+19627056</seriesId></programme><programme Ericsson_ProgramId="10086_20140310113000_22906257" channel="10086" start="20140310113000 +0000" stop="20140310120000 +0000">
+<title lang="en">
+Vanity Insanity</title><sub-title lang="en"/>
+<desc lang="en">
+The cultural fixation on beauty is explored through a broad range of personal stories about body image, cosmetic procedures, body modifications, surgeries and the influences of fashion and media on the perception of beauty.</desc><credits/>
+<date/>
+<category lang="en">
+other</category><language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+30</length><country>
+US</country><episode-num system="onscreen"/>
+<video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+None</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+22906257</seriesId></programme><programme Ericsson_ProgramId="10086_20140310143000_22906257" channel="10086" start="20140310143000 +0000" stop="20140310150000 +0000">
+<title lang="en">
+Vanity Insanity</title><sub-title lang="en"/>
+<desc lang="en">
+The cultural fixation on beauty is explored through a broad range of personal stories about body image, cosmetic procedures, body modifications, surgeries and the influences of fashion and media on the perception of beauty.</desc><credits/>
+<date/>
+<category lang="en">
+other</category><language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+30</length><country>
+US</country><episode-num system="onscreen"/>
+<video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+None</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+22906257</seriesId></programme><programme Ericsson_ProgramId="10086_20140310233000_22906257" channel="10086" start="20140310233000 +0000" stop="20140311000000 +0000">
+<title lang="en">
+Vanity Insanity</title><sub-title lang="en"/>
+<desc lang="en">
+The cultural fixation on beauty is explored through a broad range of personal stories about body image, cosmetic procedures, body modifications, surgeries and the influences of fashion and media on the perception of beauty.</desc><credits/>
+<date/>
+<category lang="en">
+other</category><language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+30</length><country>
+US</country><episode-num system="onscreen"/>
+<video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+None</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+22906257</seriesId></programme><programme Ericsson_ProgramId="10086_20140311113000_22906257" channel="10086" start="20140311113000 +0000" stop="20140311120000 +0000">
+<title lang="en">
+Vanity Insanity</title><sub-title lang="en"/>
+<desc lang="en">
+The cultural fixation on beauty is explored through a broad range of personal stories about body image, cosmetic procedures, body modifications, surgeries and the influences of fashion and media on the perception of beauty.</desc><credits/>
+<date/>
+<category lang="en">
+other</category><language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+30</length><country>
+US</country><episode-num system="onscreen"/>
+<video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+None</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+22906257</seriesId></programme><programme Ericsson_ProgramId="10086_20140311143000_22906257" channel="10086" start="20140311143000 +0000" stop="20140311150000 +0000">
+<title lang="en">
+Vanity Insanity</title><sub-title lang="en"/>
+<desc lang="en">
+The cultural fixation on beauty is explored through a broad range of personal stories about body image, cosmetic procedures, body modifications, surgeries and the influences of fashion and media on the perception of beauty.</desc><credits/>
+<date/>
+<category lang="en">
+other</category><language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+30</length><country>
+US</country><episode-num system="onscreen"/>
+<video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+None</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+22906257</seriesId></programme><programme Ericsson_ProgramId="10086_20140311233000_22906257" channel="10086" start="20140311233000 +0000" stop="20140312000000 +0000">
+<title lang="en">
+Vanity Insanity</title><sub-title lang="en"/>
+<desc lang="en">
+The cultural fixation on beauty is explored through a broad range of personal stories about body image, cosmetic procedures, body modifications, surgeries and the influences of fashion and media on the perception of beauty.</desc><credits/>
+<date/>
+<category lang="en">
+other</category><language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+30</length><country>
+US</country><episode-num system="onscreen"/>
+<video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+None</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+22906257</seriesId></programme><programme Ericsson_ProgramId="10086_20140311180000_22971374" channel="10086" start="20140311180000 +0000" stop="20140311183000 +0000">
+<title lang="en">
+Lol: Work</title><sub-title lang="en"/>
+<credits/>
+<date/>
+<category lang="en">
+other</category><language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+30</length><country>
+CA</country><episode-num system="onscreen"/>
+<video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+none</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+22971374</seriesId></programme><programme Ericsson_ProgramId="10086_20140312050000_22971374" channel="10086" start="20140312050000 +0000" stop="20140312053000 +0000">
+<title lang="en">
+Lol: Work</title><sub-title lang="en"/>
+<credits/>
+<date/>
+<category lang="en">
+other</category><language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+30</length><country>
+CA</country><episode-num system="onscreen"/>
+<video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+none</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+22971374</seriesId></programme><programme Ericsson_ProgramId="10086_20140310190000_23040389" channel="10086" start="20140310190000 +0000" stop="20140310200000 +0000">
+<title lang="en">
+The Lylas</title><sub-title lang="en">
+Headed Home</sub-title><desc lang="en">
+Plans for the band are put on hold as the sisters grieve the sudden loss of their mother.</desc><credits/>
+<date>
+2013</date><category lang="en">
+reality</category><category lang="en">
+music</category><language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+60</length><url>
+http://www.wetv.com/shows/the-lylas</url><country>
+US</country><episode-num system="onscreen">
+106</episode-num><video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+None</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+22817215</seriesId></programme><programme Ericsson_ProgramId="10086_20140311060000_23040389" channel="10086" start="20140311060000 +0000" stop="20140311070000 +0000">
+<title lang="en">
+The Lylas</title><sub-title lang="en">
+Headed Home</sub-title><desc lang="en">
+Plans for the band are put on hold as the sisters grieve the sudden loss of their mother.</desc><credits/>
+<date>
+2013</date><category lang="en">
+reality</category><category lang="en">
+music</category><language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+60</length><url>
+http://www.wetv.com/shows/the-lylas</url><country>
+US</country><episode-num system="onscreen">
+106</episode-num><video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+None</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+22817215</seriesId></programme><programme Ericsson_ProgramId="10086_20140311213000_2810433" channel="10086" start="20140311213000 +0000" stop="20140311220000 +0000">
+<title lang="en">
+Suddenly Susan</title><sub-title lang="en">
+Oh, How They Danced</sub-title><desc lang="en">
+Part 1 of two. Vicki's folks (Joan Rivers, Charlie Brill) arrive for her wedding---a double ceremony shared with gay couple Pete and Hank; Todd's parents (Susan Ruttan, Tommy Smothers) ready for the birth of twins. Pete: Bill Stevenson.</desc><credits>
+<actor>
+Brooke Shields</actor><actor>
+Nestor Carbonell</actor><actor>
+Barbara Barrie</actor><actor>
+Kathy Griffin</actor><actor>
+Andrea Bendewald</actor><actor>
+Eric Idle</actor><actor>
+Sherri Shepherd</actor><actor>
+Currie Graham</actor><actor>
+Rob Estes</actor><actor>
+Joan Rivers</actor><actor>
+Charlie Brill</actor><actor>
+Susan Ruttan</actor><actor>
+Tommy Smothers</actor><actor>
+Bill Stevenson</actor></credits><date>
+1998</date><category lang="en">
+comedy</category><category lang="en">
+sitcom</category><language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+30</length><country>
+US</country><episode-num system="onscreen">
+47</episode-num><video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+None</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+4806</seriesId></programme><programme Ericsson_ProgramId="10086_20140312033000_2810433" channel="10086" start="20140312033000 +0000" stop="20140312040000 +0000">
+<title lang="en">
+Suddenly Susan</title><sub-title lang="en">
+Oh, How They Danced</sub-title><desc lang="en">
+Part 1 of two. Vicki's folks (Joan Rivers, Charlie Brill) arrive for her wedding---a double ceremony shared with gay couple Pete and Hank; Todd's parents (Susan Ruttan, Tommy Smothers) ready for the birth of twins. Pete: Bill Stevenson.</desc><credits>
+<actor>
+Brooke Shields</actor><actor>
+Nestor Carbonell</actor><actor>
+Barbara Barrie</actor><actor>
+Kathy Griffin</actor><actor>
+Andrea Bendewald</actor><actor>
+Eric Idle</actor><actor>
+Sherri Shepherd</actor><actor>
+Currie Graham</actor><actor>
+Rob Estes</actor><actor>
+Joan Rivers</actor><actor>
+Charlie Brill</actor><actor>
+Susan Ruttan</actor><actor>
+Tommy Smothers</actor><actor>
+Bill Stevenson</actor></credits><date>
+1998</date><category lang="en">
+comedy</category><category lang="en">
+sitcom</category><language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+30</length><country>
+US</country><episode-num system="onscreen">
+47</episode-num><video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+None</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+4806</seriesId></programme><programme Ericsson_ProgramId="10086_20140312093000_2810433" channel="10086" start="20140312093000 +0000" stop="20140312100000 +0000">
+<title lang="en">
+Suddenly Susan</title><sub-title lang="en">
+Oh, How They Danced</sub-title><desc lang="en">
+Part 1 of two. Vicki's folks (Joan Rivers, Charlie Brill) arrive for her wedding---a double ceremony shared with gay couple Pete and Hank; Todd's parents (Susan Ruttan, Tommy Smothers) ready for the birth of twins. Pete: Bill Stevenson.</desc><credits>
+<actor>
+Brooke Shields</actor><actor>
+Nestor Carbonell</actor><actor>
+Barbara Barrie</actor><actor>
+Kathy Griffin</actor><actor>
+Andrea Bendewald</actor><actor>
+Eric Idle</actor><actor>
+Sherri Shepherd</actor><actor>
+Currie Graham</actor><actor>
+Rob Estes</actor><actor>
+Joan Rivers</actor><actor>
+Charlie Brill</actor><actor>
+Susan Ruttan</actor><actor>
+Tommy Smothers</actor><actor>
+Bill Stevenson</actor></credits><date>
+1998</date><category lang="en">
+comedy</category><category lang="en">
+sitcom</category><language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+30</length><country>
+US</country><episode-num system="onscreen">
+47</episode-num><video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+None</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+4806</seriesId></programme><programme Ericsson_ProgramId="10086_20140310180000_3854868" channel="10086" start="20140310180000 +0000" stop="20140310190000 +0000">
+<title lang="en">
+America's Next Top Model</title><sub-title lang="en"/>
+<desc lang="en">
+On this eight-part reality series, ten average young women were selected to be groomed as professional models, with the winner landing a cover in Marie Claire magazine and a big-bucks modeling contract. Sequestered in a single Manhattan penthouse for the duration of the series, the wannabes were carefully coached in the attitudes, responsibilities, rigors, and occasional disadvantages of the glamour industry. On each episode, a handful of the contestants were eliminated by a panel of celebrity judges, among them supermodels Tyra Banks (who created and co-produced the series) and Janice Dickinson, fashion editor Beau Quillan, and designer Kimora Lee Simmons. America's Next Top Model premiered May 20, 2003.</desc><credits/>
+<date>
+2003</date><category lang="en">
+reality</category><category lang="en">
+reality competition</category><category lang="en">
+fashion</category><language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+60</length><url>
+http://cwtv.com/cw-antm.html</url><country>
+US</country><episode-num system="onscreen"/>
+<video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+1080i</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+PG</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+3854868</seriesId></programme><programme Ericsson_ProgramId="10086_20140311050000_3854868" channel="10086" start="20140311050000 +0000" stop="20140311060000 +0000">
+<title lang="en">
+America's Next Top Model</title><sub-title lang="en"/>
+<desc lang="en">
+On this eight-part reality series, ten average young women were selected to be groomed as professional models, with the winner landing a cover in Marie Claire magazine and a big-bucks modeling contract. Sequestered in a single Manhattan penthouse for the duration of the series, the wannabes were carefully coached in the attitudes, responsibilities, rigors, and occasional disadvantages of the glamour industry. On each episode, a handful of the contestants were eliminated by a panel of celebrity judges, among them supermodels Tyra Banks (who created and co-produced the series) and Janice Dickinson, fashion editor Beau Quillan, and designer Kimora Lee Simmons. America's Next Top Model premiered May 20, 2003.</desc><credits/>
+<date>
+2003</date><category lang="en">
+reality</category><category lang="en">
+reality competition</category><category lang="en">
+fashion</category><language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+60</length><url>
+http://cwtv.com/cw-antm.html</url><country>
+US</country><episode-num system="onscreen"/>
+<video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+1080i</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+PG</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+3854868</seriesId></programme><programme Ericsson_ProgramId="10086_20140311210000_445601" channel="10086" start="20140311210000 +0000" stop="20140311213000 +0000">
+<title lang="en">
+Veronica's Closet</title><sub-title lang="en">
+Veronica's Secret Santa</sub-title><desc lang="en">
+Ronnie gets naughty with a nice department-store Santa, then cries out when she sees who's under the beard. Leo: Daryl "Chill" Mitchell. Alec: Ron Silver. Josh: Wallace Langham. Olive: Kathy Najimy.</desc><credits>
+<actor>
+Kirstie Alley</actor><actor>
+Dan Cortese</actor><actor>
+Wallace Langham</actor><actor>
+Kathy Najimy</actor><actor>
+Daryl 'Chill' Mitchell</actor><actor>
+Ron Silver</actor><actor>
+James Wilder</actor></credits><date>
+1998</date><category lang="en">
+comedy</category><category lang="en">
+sitcom</category><category lang="en">
+christmas</category><language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+30</length><country>
+US</country><episode-num system="onscreen"/>
+<video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+PG</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+46653</seriesId></programme><programme Ericsson_ProgramId="10086_20140312030000_445601" channel="10086" start="20140312030000 +0000" stop="20140312033000 +0000">
+<title lang="en">
+Veronica's Closet</title><sub-title lang="en">
+Veronica's Secret Santa</sub-title><desc lang="en">
+Ronnie gets naughty with a nice department-store Santa, then cries out when she sees who's under the beard. Leo: Daryl "Chill" Mitchell. Alec: Ron Silver. Josh: Wallace Langham. Olive: Kathy Najimy.</desc><credits>
+<actor>
+Kirstie Alley</actor><actor>
+Dan Cortese</actor><actor>
+Wallace Langham</actor><actor>
+Kathy Najimy</actor><actor>
+Daryl 'Chill' Mitchell</actor><actor>
+Ron Silver</actor><actor>
+James Wilder</actor></credits><date>
+1998</date><category lang="en">
+comedy</category><category lang="en">
+sitcom</category><category lang="en">
+christmas</category><language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+30</length><country>
+US</country><episode-num system="onscreen"/>
+<video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+PG</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+46653</seriesId></programme><programme Ericsson_ProgramId="10086_20140312090000_445601" channel="10086" start="20140312090000 +0000" stop="20140312093000 +0000">
+<title lang="en">
+Veronica's Closet</title><sub-title lang="en">
+Veronica's Secret Santa</sub-title><desc lang="en">
+Ronnie gets naughty with a nice department-store Santa, then cries out when she sees who's under the beard. Leo: Daryl "Chill" Mitchell. Alec: Ron Silver. Josh: Wallace Langham. Olive: Kathy Najimy.</desc><credits>
+<actor>
+Kirstie Alley</actor><actor>
+Dan Cortese</actor><actor>
+Wallace Langham</actor><actor>
+Kathy Najimy</actor><actor>
+Daryl 'Chill' Mitchell</actor><actor>
+Ron Silver</actor><actor>
+James Wilder</actor></credits><date>
+1998</date><category lang="en">
+comedy</category><category lang="en">
+sitcom</category><category lang="en">
+christmas</category><language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+30</length><country>
+US</country><episode-num system="onscreen"/>
+<video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+PG</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+46653</seriesId></programme><programme Ericsson_ProgramId="10086_20140310210000_446183" channel="10086" start="20140310210000 +0000" stop="20140310213000 +0000">
+<title lang="en">
+Veronica's Closet</title><sub-title lang="en">
+Veronica's Cheating Partners</sub-title><desc lang="en">
+Ronnie acts like a woman scorned when Alec (Ron Silver) entertains offers from another company; Leo (Daryl "Chill" Mitchell) and his girlfriend play a name game. Dave Whitbey: Michael McKean. Perry: Dan Cortese.</desc><credits>
+<actor>
+Kirstie Alley</actor><actor>
+Dan Cortese</actor><actor>
+Wallace Langham</actor><actor>
+Kathy Najimy</actor><actor>
+Daryl 'Chill' Mitchell</actor><actor>
+Ron Silver</actor><actor>
+Michael McKean</actor><actor>
+Sandy Brown</actor></credits><date>
+1998</date><category lang="en">
+comedy</category><category lang="en">
+sitcom</category><language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+30</length><country>
+US</country><episode-num system="onscreen"/>
+<video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+14+</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+46653</seriesId></programme><programme Ericsson_ProgramId="10086_20140311030000_446183" channel="10086" start="20140311030000 +0000" stop="20140311033000 +0000">
+<title lang="en">
+Veronica's Closet</title><sub-title lang="en">
+Veronica's Cheating Partners</sub-title><desc lang="en">
+Ronnie acts like a woman scorned when Alec (Ron Silver) entertains offers from another company; Leo (Daryl "Chill" Mitchell) and his girlfriend play a name game. Dave Whitbey: Michael McKean. Perry: Dan Cortese.</desc><credits>
+<actor>
+Kirstie Alley</actor><actor>
+Dan Cortese</actor><actor>
+Wallace Langham</actor><actor>
+Kathy Najimy</actor><actor>
+Daryl 'Chill' Mitchell</actor><actor>
+Ron Silver</actor><actor>
+Michael McKean</actor><actor>
+Sandy Brown</actor></credits><date>
+1998</date><category lang="en">
+comedy</category><category lang="en">
+sitcom</category><language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+30</length><country>
+US</country><episode-num system="onscreen"/>
+<video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+14+</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+46653</seriesId></programme><programme Ericsson_ProgramId="10086_20140311090000_446183" channel="10086" start="20140311090000 +0000" stop="20140311093000 +0000">
+<title lang="en">
+Veronica's Closet</title><sub-title lang="en">
+Veronica's Cheating Partners</sub-title><desc lang="en">
+Ronnie acts like a woman scorned when Alec (Ron Silver) entertains offers from another company; Leo (Daryl "Chill" Mitchell) and his girlfriend play a name game. Dave Whitbey: Michael McKean. Perry: Dan Cortese.</desc><credits>
+<actor>
+Kirstie Alley</actor><actor>
+Dan Cortese</actor><actor>
+Wallace Langham</actor><actor>
+Kathy Najimy</actor><actor>
+Daryl 'Chill' Mitchell</actor><actor>
+Ron Silver</actor><actor>
+Michael McKean</actor><actor>
+Sandy Brown</actor></credits><date>
+1998</date><category lang="en">
+comedy</category><category lang="en">
+sitcom</category><language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+30</length><country>
+US</country><episode-num system="onscreen"/>
+<video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+14+</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+46653</seriesId></programme><programme Ericsson_ProgramId="10086_20140310123000_5014267" channel="10086" start="20140310123000 +0000" stop="20140310130000 +0000">
+<title lang="en">
+Diva on a Dime</title><sub-title lang="en">
+Date Night Diva</sub-title><desc lang="en">
+A new mom gets a makeover for a date with her husband. Guest: Petrina Bura.</desc><credits>
+<guest>
+Petrina Bura</guest></credits><date/>
+<category lang="en">
+fashion</category><language>
+en</language><length units="minutes">
+30</length><url>
+http://www.canada.com/topics/entertainment/features/divaonadime/index.html</url><country>
+CA</country><episode-num system="onscreen">
+216</episode-num><video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+PG</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+4177554</seriesId></programme><programme Ericsson_ProgramId="10086_20140310153000_5014267" channel="10086" start="20140310153000 +0000" stop="20140310160000 +0000">
+<title lang="en">
+Diva on a Dime</title><sub-title lang="en">
+Date Night Diva</sub-title><desc lang="en">
+A new mom gets a makeover for a date with her husband. Guest: Petrina Bura.</desc><credits>
+<guest>
+Petrina Bura</guest></credits><date/>
+<category lang="en">
+fashion</category><language>
+en</language><length units="minutes">
+30</length><url>
+http://www.canada.com/topics/entertainment/features/divaonadime/index.html</url><country>
+CA</country><episode-num system="onscreen">
+216</episode-num><video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+PG</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+4177554</seriesId></programme><programme Ericsson_ProgramId="10086_20140310223000_5014267" channel="10086" start="20140310223000 +0000" stop="20140310230000 +0000">
+<title lang="en">
+Diva on a Dime</title><sub-title lang="en">
+Date Night Diva</sub-title><desc lang="en">
+A new mom gets a makeover for a date with her husband. Guest: Petrina Bura.</desc><credits>
+<guest>
+Petrina Bura</guest></credits><date/>
+<category lang="en">
+fashion</category><language>
+en</language><length units="minutes">
+30</length><url>
+http://www.canada.com/topics/entertainment/features/divaonadime/index.html</url><country>
+CA</country><episode-num system="onscreen">
+216</episode-num><video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+PG</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+4177554</seriesId></programme><programme Ericsson_ProgramId="10086_20140311123000_5014318" channel="10086" start="20140311123000 +0000" stop="20140311130000 +0000">
+<title lang="en">
+Diva on a Dime</title><sub-title lang="en">
+The Unfashionable Fashionista</sub-title><desc lang="en">
+Fashion journalist Julie Gabriel dons a European look for a Fashion Week event.</desc><credits>
+<guest>
+Julie Gabriel</guest></credits><date/>
+<category lang="en">
+fashion</category><language>
+en</language><length units="minutes">
+30</length><url>
+http://www.canada.com/topics/entertainment/features/divaonadime/index.html</url><country>
+CA</country><episode-num system="onscreen">
+217</episode-num><video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+PG</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+4177554</seriesId></programme><programme Ericsson_ProgramId="10086_20140311153000_5014318" channel="10086" start="20140311153000 +0000" stop="20140311160000 +0000">
+<title lang="en">
+Diva on a Dime</title><sub-title lang="en">
+The Unfashionable Fashionista</sub-title><desc lang="en">
+Fashion journalist Julie Gabriel dons a European look for a Fashion Week event.</desc><credits>
+<guest>
+Julie Gabriel</guest></credits><date/>
+<category lang="en">
+fashion</category><language>
+en</language><length units="minutes">
+30</length><url>
+http://www.canada.com/topics/entertainment/features/divaonadime/index.html</url><country>
+CA</country><episode-num system="onscreen">
+217</episode-num><video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+PG</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+4177554</seriesId></programme><programme Ericsson_ProgramId="10086_20140311223000_5014318" channel="10086" start="20140311223000 +0000" stop="20140311230000 +0000">
+<title lang="en">
+Diva on a Dime</title><sub-title lang="en">
+The Unfashionable Fashionista</sub-title><desc lang="en">
+Fashion journalist Julie Gabriel dons a European look for a Fashion Week event.</desc><credits>
+<guest>
+Julie Gabriel</guest></credits><date/>
+<category lang="en">
+fashion</category><language>
+en</language><length units="minutes">
+30</length><url>
+http://www.canada.com/topics/entertainment/features/divaonadime/index.html</url><country>
+CA</country><episode-num system="onscreen">
+217</episode-num><video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+PG</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+4177554</seriesId></programme><programme Ericsson_ProgramId="10086_20140310120000_6958083" channel="10086" start="20140310120000 +0000" stop="20140310123000 +0000">
+<title lang="en">
+The Smart Woman Survival Guide</title><sub-title lang="en">
+Out of the Closet and Into the Fire</sub-title><desc lang="en">
+Everyone on the ?Smart Woman? team is hiding something and soon all of their secrets are revealed.</desc><credits>
+<director>
+James Allodi</director><director>
+Stephen Hall</director><actor>
+Laura McLean</actor><actor>
+Siobhan Murphy</actor><actor>
+Joanne Alderson</actor><actor>
+Tricia Braun</actor><actor>
+Riley Gilchrist</actor><actor>
+Ryan V. Hays</actor><actor>
+Adam Seybold</actor></credits><date>
+2007</date><category lang="en">
+comedy</category><category lang="en">
+sitcom</category><language>
+en</language><length units="minutes">
+30</length><url>
+http://www.wnetwork.com/tv_shows/shows/the_smart_woman_survival_guide/index.asp</url><country>
+CA</country><episode-num system="onscreen">
+19</episode-num><video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+14+</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+5856148</seriesId></programme><programme Ericsson_ProgramId="10086_20140310150000_6958083" channel="10086" start="20140310150000 +0000" stop="20140310153000 +0000">
+<title lang="en">
+The Smart Woman Survival Guide</title><sub-title lang="en">
+Out of the Closet and Into the Fire</sub-title><desc lang="en">
+Everyone on the ?Smart Woman? team is hiding something and soon all of their secrets are revealed.</desc><credits>
+<director>
+James Allodi</director><director>
+Stephen Hall</director><actor>
+Laura McLean</actor><actor>
+Siobhan Murphy</actor><actor>
+Joanne Alderson</actor><actor>
+Tricia Braun</actor><actor>
+Riley Gilchrist</actor><actor>
+Ryan V. Hays</actor><actor>
+Adam Seybold</actor></credits><date>
+2007</date><category lang="en">
+comedy</category><category lang="en">
+sitcom</category><language>
+en</language><length units="minutes">
+30</length><url>
+http://www.wnetwork.com/tv_shows/shows/the_smart_woman_survival_guide/index.asp</url><country>
+CA</country><episode-num system="onscreen">
+19</episode-num><video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+14+</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+5856148</seriesId></programme><programme Ericsson_ProgramId="10086_20140310220000_6958083" channel="10086" start="20140310220000 +0000" stop="20140310223000 +0000">
+<title lang="en">
+The Smart Woman Survival Guide</title><sub-title lang="en">
+Out of the Closet and Into the Fire</sub-title><desc lang="en">
+Everyone on the ?Smart Woman? team is hiding something and soon all of their secrets are revealed.</desc><credits>
+<director>
+James Allodi</director><director>
+Stephen Hall</director><actor>
+Laura McLean</actor><actor>
+Siobhan Murphy</actor><actor>
+Joanne Alderson</actor><actor>
+Tricia Braun</actor><actor>
+Riley Gilchrist</actor><actor>
+Ryan V. Hays</actor><actor>
+Adam Seybold</actor></credits><date>
+2007</date><category lang="en">
+comedy</category><category lang="en">
+sitcom</category><language>
+en</language><length units="minutes">
+30</length><url>
+http://www.wnetwork.com/tv_shows/shows/the_smart_woman_survival_guide/index.asp</url><country>
+CA</country><episode-num system="onscreen">
+19</episode-num><video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+14+</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+5856148</seriesId></programme><programme Ericsson_ProgramId="10086_20140311120000_6980195" channel="10086" start="20140311120000 +0000" stop="20140311123000 +0000">
+<title lang="en">
+The Smart Woman Survival Guide</title><sub-title lang="en">
+Check Your Insecurities at the Door</sub-title><desc lang="en">
+The ladies' insecurities surface during an appearance at a home show.</desc><credits>
+<director>
+James Allodi</director><director>
+Stephen Hall</director><actor>
+Laura McLean</actor><actor>
+Siobhan Murphy</actor><actor>
+Joanne Alderson</actor><actor>
+Tricia Braun</actor><actor>
+Riley Gilchrist</actor><actor>
+Ryan V. Hays</actor><actor>
+Adam Seybold</actor></credits><date>
+2007</date><category lang="en">
+comedy</category><category lang="en">
+sitcom</category><language>
+en</language><length units="minutes">
+30</length><url>
+http://www.wnetwork.com/tv_shows/shows/the_smart_woman_survival_guide/index.asp</url><country>
+CA</country><episode-num system="onscreen">
+20</episode-num><video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+14+</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+5856148</seriesId></programme><programme Ericsson_ProgramId="10086_20140311150000_6980195" channel="10086" start="20140311150000 +0000" stop="20140311153000 +0000">
+<title lang="en">
+The Smart Woman Survival Guide</title><sub-title lang="en">
+Check Your Insecurities at the Door</sub-title><desc lang="en">
+The ladies' insecurities surface during an appearance at a home show.</desc><credits>
+<director>
+James Allodi</director><director>
+Stephen Hall</director><actor>
+Laura McLean</actor><actor>
+Siobhan Murphy</actor><actor>
+Joanne Alderson</actor><actor>
+Tricia Braun</actor><actor>
+Riley Gilchrist</actor><actor>
+Ryan V. Hays</actor><actor>
+Adam Seybold</actor></credits><date>
+2007</date><category lang="en">
+comedy</category><category lang="en">
+sitcom</category><language>
+en</language><length units="minutes">
+30</length><url>
+http://www.wnetwork.com/tv_shows/shows/the_smart_woman_survival_guide/index.asp</url><country>
+CA</country><episode-num system="onscreen">
+20</episode-num><video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+14+</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+5856148</seriesId></programme><programme Ericsson_ProgramId="10086_20140311220000_6980195" channel="10086" start="20140311220000 +0000" stop="20140311223000 +0000">
+<title lang="en">
+The Smart Woman Survival Guide</title><sub-title lang="en">
+Check Your Insecurities at the Door</sub-title><desc lang="en">
+The ladies' insecurities surface during an appearance at a home show.</desc><credits>
+<director>
+James Allodi</director><director>
+Stephen Hall</director><actor>
+Laura McLean</actor><actor>
+Siobhan Murphy</actor><actor>
+Joanne Alderson</actor><actor>
+Tricia Braun</actor><actor>
+Riley Gilchrist</actor><actor>
+Ryan V. Hays</actor><actor>
+Adam Seybold</actor></credits><date>
+2007</date><category lang="en">
+comedy</category><category lang="en">
+sitcom</category><language>
+en</language><length units="minutes">
+30</length><url>
+http://www.wnetwork.com/tv_shows/shows/the_smart_woman_survival_guide/index.asp</url><country>
+CA</country><episode-num system="onscreen">
+20</episode-num><video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+14+</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+5856148</seriesId></programme><programme Ericsson_ProgramId="10086_20140311010000_8469990" channel="10086" start="20140311010000 +0000" stop="20140311020000 +0000">
+<title lang="en">
+The Janice Dickinson Modeling Agency</title><sub-title lang="en">
+Designer Cracks the Whip</sub-title><desc lang="en">
+Janice's female posse is lined up for a fashion luminary's runway show. Janice also tutors her crew in the fine art of sultry dancing, but self-esteem matters come to the fore. In the romance department, a newbie poser's heart thumps for one of the veteran models.</desc><credits/>
+<date>
+2008</date><category lang="en">
+reality</category><category lang="en">
+fashion</category><language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+60</length><country>
+US</country><episode-num system="onscreen">
+406</episode-num><video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+14+</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+5606441</seriesId></programme><programme Ericsson_ProgramId="10086_20140311080000_8469990" channel="10086" start="20140311080000 +0000" stop="20140311090000 +0000">
+<title lang="en">
+The Janice Dickinson Modeling Agency</title><sub-title lang="en">
+Designer Cracks the Whip</sub-title><desc lang="en">
+Janice's female posse is lined up for a fashion luminary's runway show. Janice also tutors her crew in the fine art of sultry dancing, but self-esteem matters come to the fore. In the romance department, a newbie poser's heart thumps for one of the veteran models.</desc><credits/>
+<date>
+2008</date><category lang="en">
+reality</category><category lang="en">
+fashion</category><language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+60</length><country>
+US</country><episode-num system="onscreen">
+406</episode-num><video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+14+</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+5606441</seriesId></programme><programme Ericsson_ProgramId="10086_20140312010000_8470073" channel="10086" start="20140312010000 +0000" stop="20140312020000 +0000">
+<title lang="en">
+The Janice Dickinson Modeling Agency</title><sub-title lang="en">
+Livin' Large</sub-title><desc lang="en">
+Janice's son presses for the inclusion of plus-size models at the agency, despite Janice's aversion to the plus-size industry. Meanwhile, an underwear client arrives, stretching the models' boundaries in the process. And the posers show their net worth, playing a volleyball game against a team of formidable Junior Olympic qualifiers.</desc><credits/>
+<date>
+2008</date><category lang="en">
+reality</category><category lang="en">
+fashion</category><language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+60</length><country>
+US</country><episode-num system="onscreen">
+407</episode-num><video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+14+</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+5606441</seriesId></programme><programme Ericsson_ProgramId="10086_20140312080000_8470073" channel="10086" start="20140312080000 +0000" stop="20140312090000 +0000">
+<title lang="en">
+The Janice Dickinson Modeling Agency</title><sub-title lang="en">
+Livin' Large</sub-title><desc lang="en">
+Janice's son presses for the inclusion of plus-size models at the agency, despite Janice's aversion to the plus-size industry. Meanwhile, an underwear client arrives, stretching the models' boundaries in the process. And the posers show their net worth, playing a volleyball game against a team of formidable Junior Olympic qualifiers.</desc><credits/>
+<date>
+2008</date><category lang="en">
+reality</category><category lang="en">
+fashion</category><language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+60</length><country>
+US</country><episode-num system="onscreen">
+407</episode-num><video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+14+</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+5606441</seriesId></programme><programme Ericsson_ProgramId="10086_20140310213000_970755" channel="10086" start="20140310213000 +0000" stop="20140310220000 +0000">
+<title lang="en">
+Suddenly Susan</title><sub-title lang="en">
+A Tale of Two Pants</sub-title><desc lang="en">
+Part 1 of two. Susan's sent to interview a congressman---who makes a pass at her; Vicki plans a glitzy wedding; the guys hope to cash in by selling yellow bell-bottoms. Rep. Shafer: Christopher Rich. Jack: Judd Nelson. Susan: Brooke Shields.</desc><credits>
+<actor>
+Brooke Shields</actor><actor>
+Nestor Carbonell</actor><actor>
+Judd Nelson</actor><actor>
+David Strickland</actor><actor>
+Kathy Griffin</actor><actor>
+Andrea Bendewald</actor><actor>
+Christopher Rich</actor><actor>
+Valorie Armstrong</actor></credits><date>
+1998</date><category lang="en">
+comedy</category><category lang="en">
+sitcom</category><language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+30</length><country>
+US</country><episode-num system="onscreen">
+46</episode-num><video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+PG</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+4806</seriesId></programme><programme Ericsson_ProgramId="10086_20140311033000_970755" channel="10086" start="20140311033000 +0000" stop="20140311040000 +0000">
+<title lang="en">
+Suddenly Susan</title><sub-title lang="en">
+A Tale of Two Pants</sub-title><desc lang="en">
+Part 1 of two. Susan's sent to interview a congressman---who makes a pass at her; Vicki plans a glitzy wedding; the guys hope to cash in by selling yellow bell-bottoms. Rep. Shafer: Christopher Rich. Jack: Judd Nelson. Susan: Brooke Shields.</desc><credits>
+<actor>
+Brooke Shields</actor><actor>
+Nestor Carbonell</actor><actor>
+Judd Nelson</actor><actor>
+David Strickland</actor><actor>
+Kathy Griffin</actor><actor>
+Andrea Bendewald</actor><actor>
+Christopher Rich</actor><actor>
+Valorie Armstrong</actor></credits><date>
+1998</date><category lang="en">
+comedy</category><category lang="en">
+sitcom</category><language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+30</length><country>
+US</country><episode-num system="onscreen">
+46</episode-num><video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+PG</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+4806</seriesId></programme><programme Ericsson_ProgramId="10086_20140311093000_970755" channel="10086" start="20140311093000 +0000" stop="20140311100000 +0000">
+<title lang="en">
+Suddenly Susan</title><sub-title lang="en">
+A Tale of Two Pants</sub-title><desc lang="en">
+Part 1 of two. Susan's sent to interview a congressman---who makes a pass at her; Vicki plans a glitzy wedding; the guys hope to cash in by selling yellow bell-bottoms. Rep. Shafer: Christopher Rich. Jack: Judd Nelson. Susan: Brooke Shields.</desc><credits>
+<actor>
+Brooke Shields</actor><actor>
+Nestor Carbonell</actor><actor>
+Judd Nelson</actor><actor>
+David Strickland</actor><actor>
+Kathy Griffin</actor><actor>
+Andrea Bendewald</actor><actor>
+Christopher Rich</actor><actor>
+Valorie Armstrong</actor></credits><date>
+1998</date><category lang="en">
+comedy</category><category lang="en">
+sitcom</category><language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+30</length><country>
+US</country><episode-num system="onscreen">
+46</episode-num><video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+PG</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+4806</seriesId></programme>
