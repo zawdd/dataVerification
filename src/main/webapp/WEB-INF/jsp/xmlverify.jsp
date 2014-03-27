@@ -94,7 +94,12 @@ $(document).ready(function(){
 		$("#channelinfo").show();
 	   $.getJSON("channelsummary.json",function(result){
 	    	$.each(result, function(i, field){
-	    		 $("#channelinfo").append("<tr>"+
+	    		if (field.isCorrect == false){
+	    			mytr = "<tr class='danger'>";
+	    		}else{
+	    			mytr = "<tr>";
+	    		}
+	    		 $("#channelinfo").append(mytr+
 	    				 "<td>"+i+"</td>"+
 	    				 "<td>"+field.id+"</td>"+
 	    				 "<td>"+field.name+"</td>"+
@@ -111,15 +116,25 @@ $(document).ready(function(){
 		if($("#begtime").val() == "" || $("#stationid").val() == "" || $("#endtime").val() == ""){
 			alert("start time, end time or station id is empty!");
 			return ;
+		}else{
+			uri = "exportsearchresult.json?stationid="+$("#stationid").val()+"&begtime="+
+			 		 $("#begtime").val()+"&endtime="+$("#endtime").val();
+			window.location.href = uri;
 		}
-	   $.get("exportsearchresult.json?stationid="+$("#stationid").val()+"&begtime="+
+		
+		//window.open(uri,'Download');
+		
+	   /* $.get("exportsearchresult.json?stationid="+$("#stationid").val()+"&begtime="+
 				  $("#begtime").val()+"&endtime="+$("#endtime").val(),function(result){
-    	   window.location.href = result;
+		   
+    	  //window.location.href = result;
+    	  window.open(result,'Download');
 		   //alert("chick to download"+result);
-/* 			$.fileDownload(result)
+ 			/* $.fileDownload(result)
 					    .done(function () { alert('File download success!'); })
-					    .fail(function () { alert('File download failed!'); }); */
-		});
+					    .fail(function () { alert('File download failed!'); }); 
+		}); */
+		//$.get();
 	});
 	
 });	
@@ -143,11 +158,11 @@ $(document).ready(function(){
 </form>
 
 file<select id="fileselect"></select>
+<button id="fileinfo">summary</button>
 channel id:<input type="text" id="stationid" name="stationid"/>
 begtime:<input type="text" id="begtime" name="begtime"/>
 endtime:<input type="text" id="endtime" name="endtime" />
-<button id="submit" >submit</button>
-<button id="fileinfo">summary</button>
+<button id="submit" >query</button>
 <button id="export">export</button>
 
 <table class="table table-hover table-condensed" id ="channelinfo">

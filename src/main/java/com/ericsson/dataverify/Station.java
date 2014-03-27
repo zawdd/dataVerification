@@ -6,4 +6,6 @@ public class Station {
 	public String country;
 	public String state;
 	public String city;
+	public String zipcode;
+	public String headendID;
 }

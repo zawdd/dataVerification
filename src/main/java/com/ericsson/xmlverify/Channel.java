@@ -11,6 +11,7 @@ public class Channel implements Comparable<Channel> {
 	public String str_end;
 	public int prog_num;
 	public String description;
+	public boolean isCorrect;
 	public Channel(){
 		this.id = "";
 		this.name = "";
@@ -20,6 +21,7 @@ public class Channel implements Comparable<Channel> {
 		this.prog_num = 0;
 		this.beg = null;
 		this.end = null;
+		this.isCorrect = true;
 	}
 	
 	@Override

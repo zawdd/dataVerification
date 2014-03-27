@@ -24,35 +24,63 @@ public class IndexPageController {
 		return this.scheduledaoimpl;
 	}
 	
-	@RequestMapping(value="/getprograms", method=RequestMethod.GET)  
+	@RequestMapping(value="/getprogramsbyid", method=RequestMethod.GET)  
 	@ResponseBody
-	public List<Programme> getProgramByStationID(@RequestParam(value = "stationid") String id){
-		List<Programme> result= this.scheduledaoimpl.getProgramsByStationID(id);
-		
+	public List<Programme> getProgramByProgramID(@RequestParam(value = "programid") String id){
+		List<Programme> result= this.scheduledaoimpl.getProgramsByProgramID(id);
 		return result;
 	}
 	
-	@RequestMapping(value="/getlineups", method=RequestMethod.GET)  
+	@RequestMapping(value="/getprogramsbytitle", method=RequestMethod.GET)  
 	@ResponseBody
-	public List<Lineup> getLineupByStationID(@RequestParam(value = "stationid") String id){
-		List<Lineup> result = this.scheduledaoimpl.getLineupByStationID(id);
-		
+	public List<Programme> getProgramByProgramTitle(@RequestParam(value = "programtitle") String title){
+		List<Programme> result= this.scheduledaoimpl.getProgramsByProgramTitle(title);
 		return result;
 	}
 	
-	@RequestMapping(value="/getheadends", method=RequestMethod.GET)  
+	@RequestMapping(value="/getschedulesbyprogramid", method=RequestMethod.GET)  
 	@ResponseBody
-	public List<Headend> getHeadendByStationID(@RequestParam(value = "stationid") String id){
-		List<Headend> result = this.scheduledaoimpl.getHeadendByStationID(id);
-		
+	public List<Schedule> getScheduleByProgramID(@RequestParam(value = "programid") String id,
+			@RequestParam(value = "begtime") String begtime,
+			@RequestParam(value = "endtime") String endtime){
+		String start_time = begtime + " 00:00:00";
+		String end_time = endtime + " 00:00:00"; 
+		List<Schedule> result= this.scheduledaoimpl.getScheduleByProgramID(id,start_time,end_time);
 		return result;
 	}
 	
-	@RequestMapping(value="/getstations", method=RequestMethod.GET)  
+	@RequestMapping(value="/getheadendsbyheadendid", method=RequestMethod.GET)  
+	@ResponseBody
+	public List<Headend> getHeadendByHeadendID(@RequestParam(value = "headendid") String id){
+		List<Headend> result = this.scheduledaoimpl.getHeadendByHeadendID(id);		
+		return result;
+	}
+	
+	@RequestMapping(value="/getheadendsbyheadendzipcode", method=RequestMethod.GET)  
+	@ResponseBody
+	public List<Headend> getHeadendByHeadendZipcode(@RequestParam(value = "zipcode") String id){
+		List<Headend> result = this.scheduledaoimpl.getHeadendByHeadendZipcode(id);		
+		return result;
+	}
+	
+	@RequestMapping(value="/getstationsbystationid", method=RequestMethod.GET)  
 	@ResponseBody
 	public List<Station> getStationByStationID(@RequestParam(value = "stationid") String id){
 		List<Station> result = this.scheduledaoimpl.getStationByStationID(id);
-		
+		return result;
+	}
+	
+	@RequestMapping(value="/getstationsbyzipcode", method=RequestMethod.GET)  
+	@ResponseBody
+	public List<Station> getStationByStationZipcode(@RequestParam(value = "zipcode") String id){
+		List<Station> result = this.scheduledaoimpl.getStationByStationZipcode(id);
+		return result;
+	}
+	
+	@RequestMapping(value="/getstationsbyheadendid", method=RequestMethod.GET)  
+	@ResponseBody
+	public List<Station> getStationByHeadendID(@RequestParam(value = "headendid") String id){
+		List<Station> result = this.scheduledaoimpl.getStationByHeadendID(id);
 		return result;
 	}
 	

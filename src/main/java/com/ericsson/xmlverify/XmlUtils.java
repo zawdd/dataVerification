@@ -55,11 +55,11 @@ public class XmlUtils{
 	    short type = n.getNodeType();
 
 	    if (Node.CDATA_SECTION_NODE == type) {
-	      return "<![CDATA[" + n.getNodeValue() + "]]&gt;";
+	    	return "<![CDATA[" + n.getNodeValue() + "]]&gt;";
 	    }
 
 	    if (name.startsWith("#")) {
-	      return "";
+	    	return "";
 	    }
 
 	    StringBuffer sb = new StringBuffer();
@@ -67,43 +67,42 @@ public class XmlUtils{
 
 	    NamedNodeMap attrs = n.getAttributes();
 	    if (attrs != null) {
-	      for (int i = 0; i < attrs.getLength(); i++) {
-	        Node attr = attrs.item(i);
-	        sb.append(' ').append(attr.getNodeName()).append("=\"").append(attr.getNodeValue()).append(
-	            "\"");
-	      }
+	    	for (int i = 0; i < attrs.getLength(); i++) {
+	    		Node attr = attrs.item(i);
+	    		sb.append(' ').append(attr.getNodeName()).append("=\"").append(attr.getNodeValue()).append(
+	    				"\"");
+	    	}
 	    }
 
 	    String textContent = null;
 	    NodeList children = n.getChildNodes();
 
 	    if (children.getLength() == 0) {
-	      if ((textContent = n.getTextContent()) != null && !"".equals(textContent)) {
-	        sb.append(textContent).append("</").append(name).append('>');
-	        ;
-	      } else {
-	        sb.append("/>").append('\n');
-	      }
+	    	if ((textContent = n.getTextContent()) != null && !"".equals(textContent)) {
+	    		sb.append(textContent).append("</").append(name).append('>');
+	    	} else {
+	    		sb.append("/>").append('\n');
+	    	}
 	    } else {
-	      sb.append('>').append('\n');
-	      boolean hasValidChildren = false;
-	      for (int i = 0; i < children.getLength(); i++) {
-	        String childToString = elementToString(children.item(i));
-	        if (!"".equals(childToString)) {
-	          sb.append(childToString);
-	          hasValidChildren = true;
-	        }
-	      }
+	    	sb.append('>').append('\n');
+	    	boolean hasValidChildren = false;
+	    	for (int i = 0; i < children.getLength(); i++) {
+	    		String childToString = elementToString(children.item(i));
+	    		if (!"".equals(childToString)) {
+	         	sb.append(childToString);
+	         	hasValidChildren = true;
+	    		}
+	    	}
 
-	      if (!hasValidChildren && ((textContent = n.getTextContent()) != null)) {
-	        sb.append(textContent);
-	      }
+	    	if (!hasValidChildren && ((textContent = n.getTextContent()) != null)) {
+	    		sb.append(textContent);
+	    	}
 
-	      sb.append("</").append(name).append('>');
+	    	sb.append("</").append(name).append('>');
 	    }
 
 	    return sb.toString();
-	  }
+	 }
 	
 	 public Document parse(String filePath) { 
 		  DocumentBuilderFactory builderFactory = DocumentBuilderFactory.newInstance(); 
@@ -187,8 +186,8 @@ public class XmlUtils{
 			  e.printStackTrace();
 			  return false;
 		  }  
-
 	 }
+	 
 	 public synchronized ArrayList<Program> findProgram(String filename, String channelid, Date beg, Date end){
 		 ArrayList<Program> result = new ArrayList<Program>();
 		 Document document = this.getDocument(filename);
@@ -202,7 +201,8 @@ public class XmlUtils{
 			 try {
 				 Date start_time = format.parse(element.getAttribute("start")); 
 				 Date end_time = format.parse(element.getAttribute("stop"));
-				 if(start_time.after(beg) && end_time.before(end) && element.getAttribute("channel").equals(channelid)){
+				 //ensure the start_time and beg is equal
+				 if(!start_time.before(beg) && !end_time.after(end) && element.getAttribute("channel").equals(channelid)){
 					 tmp.start_time = start_time;
 					 tmp.end_time = end_time;
 					 tmp.str_start_time = tmp.start_time.toString();

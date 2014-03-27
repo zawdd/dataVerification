@@ -1,636 +1,274 @@
-<programme Ericsson_ProgramId="10093_20140311140000_12588711" channel="10093" start="20140311140000 +0000" stop="20140311150000 +0000">
+<programme Ericsson_ProgramId="10025_20140310184500_22151671" channel="10025" start="20140310184500 +0000" stop="20140310190000 +0000">
 <title lang="en">
-Aircrane: Extreme Helicopter</title><sub-title lang="en"/>
-<desc lang="en">
-Erickson's S-64 Aircrane, a heavy-duty helicopter that can fight forest fires and pluck 7-ton logs from mountain slopes, performs tasks in Nevada, Vancouver Island, B.C., and Sardinia.</desc><credits/>
-<date>
-2009</date><category lang="en">
-documentary</category><language>
+You Are the Chef</title><sub-title lang="en"/>
+<credits/>
+<date/>
+<category lang="en">
+other</category><language>
+en</language><orig-language>
+zh</orig-language><length units="minutes">
+30</length><country>
+CN</country><episode-num system="onscreen"/>
+<video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+None</value></rating><generic_attrs name="CaptionType">
+CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+22151671</seriesId></programme><programme Ericsson_ProgramId="10025_20140310170000_22366428" channel="10025" start="20140310170000 +0000" stop="20140310173000 +0000">
+<title lang="en">
+Tvs News</title><sub-title lang="en"/>
+<credits/>
+<date/>
+<category lang="en">
+talk</category><language>
 en</language><orig-language>
 en</orig-language><length units="minutes">
-60</length><country>
+35</length><country>
 US</country><episode-num system="onscreen"/>
 <video>
 <present>
 yes</present><colour>
 yes</colour><aspect>
 4:3</aspect><quality>
-720p</quality></video><audio>
+None</quality></video><audio>
 <present>
 yes</present><stereo>
 N</stereo></audio><rating system="CTV">
 <value>
-G</value></rating><generic_attrs name="CaptionType">
-CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+None</value></rating><generic_attrs name="CaptionType">
+None</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+22366428</seriesId></programme><programme Ericsson_ProgramId="10025_20140310143000_22366433" channel="10025" start="20140310143000 +0000" stop="20140310150000 +0000">
+<title lang="en">
+Urban Laugh Maker</title><sub-title lang="en"/>
+<credits/>
+<date/>
+<language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+20</length><country>
+US</country><episode-num system="onscreen"/>
+<video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+None</value></rating><generic_attrs name="CaptionType">
+None</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+22366433</seriesId></programme><programme Ericsson_ProgramId="10025_20140310173000_22366435" channel="10025" start="20140310173000 +0000" stop="20140310180000 +0000">
+<title lang="en">
+The First Story</title><sub-title lang="en"/>
+<credits/>
+<date/>
+<language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+25</length><country>
+US</country><episode-num system="onscreen"/>
+<video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+None</value></rating><generic_attrs name="CaptionType">
+None</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+22366435</seriesId></programme><programme Ericsson_ProgramId="10025_20140310210000_22367929" channel="10025" start="20140310210000 +0000" stop="20140310213000 +0000">
+<title lang="en">
+Life @ Five</title><sub-title lang="en"/>
+<credits/>
+<date/>
+<language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+30</length><country>
+CA</country><episode-num system="onscreen"/>
+<video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+none</value></rating><generic_attrs name="CaptionType">
+None</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+22367929</seriesId></programme><programme Ericsson_ProgramId="10025_20140310213000_22367929" channel="10025" start="20140310213000 +0000" stop="20140310220000 +0000">
+<title lang="en">
+Life @ Five</title><sub-title lang="en"/>
+<credits/>
+<date/>
+<language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+30</length><country>
+CA</country><episode-num system="onscreen"/>
+<video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+none</value></rating><generic_attrs name="CaptionType">
+None</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+22367929</seriesId></programme><programme Ericsson_ProgramId="10025_20140310200000_22367940" channel="10025" start="20140310200000 +0000" stop="20140310203000 +0000">
+<title lang="en">
+Mini Film</title><sub-title lang="en"/>
+<credits/>
+<date/>
+<category lang="en">
+other</category><category lang="en">
+short subject</category><language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+30</length><country>
+CA</country><episode-num system="onscreen"/>
+<video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+none</value></rating><generic_attrs name="CaptionType">
+None</generic_attrs><generic_attrs name="DescriptiveVideoService">
 N</generic_attrs><seriesId/>
-</programme><programme Ericsson_ProgramId="10093_20140311220000_12588711" channel="10093" start="20140311220000 +0000" stop="20140311230000 +0000">
+</programme><programme Ericsson_ProgramId="10025_20140310203000_22367946" channel="10025" start="20140310203000 +0000" stop="20140310210000 +0000">
 <title lang="en">
-Aircrane: Extreme Helicopter</title><sub-title lang="en"/>
-<desc lang="en">
-Erickson's S-64 Aircrane, a heavy-duty helicopter that can fight forest fires and pluck 7-ton logs from mountain slopes, performs tasks in Nevada, Vancouver Island, B.C., and Sardinia.</desc><credits/>
-<date>
-2009</date><category lang="en">
-documentary</category><language>
+Portrait Of Current Real Life</title><sub-title lang="en"/>
+<credits/>
+<date/>
+<language>
 en</language><orig-language>
 en</orig-language><length units="minutes">
-60</length><country>
-US</country><episode-num system="onscreen"/>
+30</length><country>
+CA</country><episode-num system="onscreen"/>
 <video>
 <present>
 yes</present><colour>
 yes</colour><aspect>
 4:3</aspect><quality>
-720p</quality></video><audio>
+None</quality></video><audio>
 <present>
 yes</present><stereo>
 N</stereo></audio><rating system="CTV">
 <value>
-G</value></rating><generic_attrs name="CaptionType">
-CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
-N</generic_attrs><seriesId/>
-</programme><programme Ericsson_ProgramId="10093_20140312030000_12588711" channel="10093" start="20140312030000 +0000" stop="20140312040000 +0000">
-<title lang="en">
-Aircrane: Extreme Helicopter</title><sub-title lang="en"/>
-<desc lang="en">
-Erickson's S-64 Aircrane, a heavy-duty helicopter that can fight forest fires and pluck 7-ton logs from mountain slopes, performs tasks in Nevada, Vancouver Island, B.C., and Sardinia.</desc><credits/>
-<date>
-2009</date><category lang="en">
-documentary</category><language>
-en</language><orig-language>
-en</orig-language><length units="minutes">
-60</length><country>
-US</country><episode-num system="onscreen"/>
-<video>
-<present>
-yes</present><colour>
-yes</colour><aspect>
-4:3</aspect><quality>
-720p</quality></video><audio>
-<present>
-yes</present><stereo>
-N</stereo></audio><rating system="CTV">
-<value>
-G</value></rating><generic_attrs name="CaptionType">
-CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
-N</generic_attrs><seriesId/>
-</programme><programme Ericsson_ProgramId="10093_20140312060000_12897946" channel="10093" start="20140312060000 +0000" stop="20140312070000 +0000">
-<title lang="en">
-The Universe</title><sub-title lang="en">
-Pulsars & Quasars</sub-title><desc lang="en">
-Pulsars and quasars are examined.</desc><credits/>
-<date>
-2009</date><category lang="en">
-documentary</category><category lang="en">
-science</category><category lang="en">
-space</category><language>
-en</language><orig-language>
-en</orig-language><length units="minutes">
-60</length><country>
-US</country><episode-num system="onscreen"/>
-<video>
-<present>
-yes</present><colour>
-yes</colour><aspect>
-4:3</aspect><quality>
-HD Level Unknown</quality></video><audio>
-<present>
-yes</present><stereo>
-N</stereo></audio><rating system="CTV">
-<value>
-PG</value></rating><generic_attrs name="CaptionType">
-CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+none</value></rating><generic_attrs name="CaptionType">
+None</generic_attrs><generic_attrs name="DescriptiveVideoService">
 N</generic_attrs><seriesId>
-6587791</seriesId></programme><programme Ericsson_ProgramId="10093_20140312090000_12897946" channel="10093" start="20140312090000 +0000" stop="20140312100000 +0000">
+22367946</seriesId></programme><programme Ericsson_ProgramId="10025_20140310100000_22367948" channel="10025" start="20140310100000 +0000" stop="20140310101500 +0000">
 <title lang="en">
-The Universe</title><sub-title lang="en">
-Pulsars & Quasars</sub-title><desc lang="en">
-Pulsars and quasars are examined.</desc><credits/>
-<date>
-2009</date><category lang="en">
-documentary</category><category lang="en">
-science</category><category lang="en">
-space</category><language>
-en</language><orig-language>
-en</orig-language><length units="minutes">
-60</length><country>
-US</country><episode-num system="onscreen"/>
-<video>
-<present>
-yes</present><colour>
-yes</colour><aspect>
-4:3</aspect><quality>
-HD Level Unknown</quality></video><audio>
-<present>
-yes</present><stereo>
-N</stereo></audio><rating system="CTV">
-<value>
-PG</value></rating><generic_attrs name="CaptionType">
-CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
-N</generic_attrs><seriesId>
-6587791</seriesId></programme><programme Ericsson_ProgramId="10093_20140310120000_19332500" channel="10093" start="20140310120000 +0000" stop="20140310123000 +0000">
-<title lang="en">
-Urban Legends</title><sub-title lang="en">
-Close Calls</sub-title><desc lang="en">
-A British detective hunts a serial killer; a man escapes deadly situations multiple times; an unfaithful Dutch couple come to an unusual agreement regarding their marriage.</desc><credits/>
-<date>
-2011</date><category lang="en">
-documentary</category><language>
-en</language><orig-language>
-en</orig-language><length units="minutes">
-30</length><country>
-US</country><episode-num system="onscreen">
-3039</episode-num><video>
-<present>
-yes</present><colour>
-yes</colour><aspect>
-4:3</aspect><quality>
-HD Level Unknown</quality></video><audio>
-<present>
-yes</present><stereo>
-N</stereo></audio><rating system="CTV">
-<value>
-PG</value></rating><generic_attrs name="CaptionType">
-CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
-N</generic_attrs><seriesId>
-6752602</seriesId></programme><programme Ericsson_ProgramId="10093_20140311080000_19332500" channel="10093" start="20140311080000 +0000" stop="20140311083000 +0000">
-<title lang="en">
-Urban Legends</title><sub-title lang="en">
-Close Calls</sub-title><desc lang="en">
-A British detective hunts a serial killer; a man escapes deadly situations multiple times; an unfaithful Dutch couple come to an unusual agreement regarding their marriage.</desc><credits/>
-<date>
-2011</date><category lang="en">
-documentary</category><language>
-en</language><orig-language>
-en</orig-language><length units="minutes">
-30</length><country>
-US</country><episode-num system="onscreen">
-3039</episode-num><video>
-<present>
-yes</present><colour>
-yes</colour><aspect>
-4:3</aspect><quality>
-HD Level Unknown</quality></video><audio>
-<present>
-yes</present><stereo>
-N</stereo></audio><rating system="CTV">
-<value>
-PG</value></rating><generic_attrs name="CaptionType">
-CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
-N</generic_attrs><seriesId>
-6752602</seriesId></programme><programme Ericsson_ProgramId="10093_20140310123000_19332506" channel="10093" start="20140310123000 +0000" stop="20140310130000 +0000">
-<title lang="en">
-Urban Legends</title><sub-title lang="en">
-Under Wraps</sub-title><desc lang="en">
-A crime in spree in Sweden leads the police to suspect a bus driver; a crash deeply affects a family in North Dakota; a stockbroker never reveals the secret to his success.</desc><credits/>
-<date>
-2011</date><category lang="en">
-documentary</category><language>
-en</language><orig-language>
-en</orig-language><length units="minutes">
-30</length><country>
-US</country><episode-num system="onscreen">
-3040</episode-num><video>
-<present>
-yes</present><colour>
-yes</colour><aspect>
-4:3</aspect><quality>
-HD Level Unknown</quality></video><audio>
-<present>
-yes</present><stereo>
-N</stereo></audio><rating system="CTV">
-<value>
-PG</value></rating><generic_attrs name="CaptionType">
-CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
-N</generic_attrs><seriesId>
-6752602</seriesId></programme><programme Ericsson_ProgramId="10093_20140311083000_19332506" channel="10093" start="20140311083000 +0000" stop="20140311090000 +0000">
-<title lang="en">
-Urban Legends</title><sub-title lang="en">
-Under Wraps</sub-title><desc lang="en">
-A crime in spree in Sweden leads the police to suspect a bus driver; a crash deeply affects a family in North Dakota; a stockbroker never reveals the secret to his success.</desc><credits/>
-<date>
-2011</date><category lang="en">
-documentary</category><language>
-en</language><orig-language>
-en</orig-language><length units="minutes">
-30</length><country>
-US</country><episode-num system="onscreen">
-3040</episode-num><video>
-<present>
-yes</present><colour>
-yes</colour><aspect>
-4:3</aspect><quality>
-HD Level Unknown</quality></video><audio>
-<present>
-yes</present><stereo>
-N</stereo></audio><rating system="CTV">
-<value>
-PG</value></rating><generic_attrs name="CaptionType">
-CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
-N</generic_attrs><seriesId>
-6752602</seriesId></programme><programme Ericsson_ProgramId="10093_20140311120000_19349107" channel="10093" start="20140311120000 +0000" stop="20140311123000 +0000">
-<title lang="en">
-Urban Legends</title><sub-title lang="en">
-Blink of an Eye</sub-title><desc lang="en">
-A hoarder faces disaster; a Winnipeg DJ disappears; a medical student's pranks backfire.</desc><credits/>
-<date>
-2011</date><category lang="en">
-documentary</category><language>
-en</language><orig-language>
-en</orig-language><length units="minutes">
-30</length><country>
-US</country><episode-num system="onscreen">
-3041</episode-num><video>
-<present>
-yes</present><colour>
-yes</colour><aspect>
-4:3</aspect><quality>
-HD Level Unknown</quality></video><audio>
-<present>
-yes</present><stereo>
-N</stereo></audio><rating system="CTV">
-<value>
-PG</value></rating><generic_attrs name="CaptionType">
-CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
-N</generic_attrs><seriesId>
-6752602</seriesId></programme><programme Ericsson_ProgramId="10093_20140312080000_19349107" channel="10093" start="20140312080000 +0000" stop="20140312083000 +0000">
-<title lang="en">
-Urban Legends</title><sub-title lang="en">
-Blink of an Eye</sub-title><desc lang="en">
-A hoarder faces disaster; a Winnipeg DJ disappears; a medical student's pranks backfire.</desc><credits/>
-<date>
-2011</date><category lang="en">
-documentary</category><language>
-en</language><orig-language>
-en</orig-language><length units="minutes">
-30</length><country>
-US</country><episode-num system="onscreen">
-3041</episode-num><video>
-<present>
-yes</present><colour>
-yes</colour><aspect>
-4:3</aspect><quality>
-HD Level Unknown</quality></video><audio>
-<present>
-yes</present><stereo>
-N</stereo></audio><rating system="CTV">
-<value>
-PG</value></rating><generic_attrs name="CaptionType">
-CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
-N</generic_attrs><seriesId>
-6752602</seriesId></programme><programme Ericsson_ProgramId="10093_20140311123000_19349112" channel="10093" start="20140311123000 +0000" stop="20140311130000 +0000">
-<title lang="en">
-Urban Legends</title><sub-title lang="en">
-Missing Pieces</sub-title><desc lang="en">
-A barmaid gets a mystery tip and is faced with a life or death decision; an Irish couple have a family secret; a murder rocks a small town.</desc><credits/>
-<date>
-2011</date><category lang="en">
-documentary</category><language>
-en</language><orig-language>
-en</orig-language><length units="minutes">
-30</length><country>
-US</country><episode-num system="onscreen">
-3042</episode-num><video>
-<present>
-yes</present><colour>
-yes</colour><aspect>
-4:3</aspect><quality>
-HD Level Unknown</quality></video><audio>
-<present>
-yes</present><stereo>
-N</stereo></audio><rating system="CTV">
-<value>
-PG</value></rating><generic_attrs name="CaptionType">
-CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
-N</generic_attrs><seriesId>
-6752602</seriesId></programme><programme Ericsson_ProgramId="10093_20140312083000_19349112" channel="10093" start="20140312083000 +0000" stop="20140312090000 +0000">
-<title lang="en">
-Urban Legends</title><sub-title lang="en">
-Missing Pieces</sub-title><desc lang="en">
-A barmaid gets a mystery tip and is faced with a life or death decision; an Irish couple have a family secret; a murder rocks a small town.</desc><credits/>
-<date>
-2011</date><category lang="en">
-documentary</category><language>
-en</language><orig-language>
-en</orig-language><length units="minutes">
-30</length><country>
-US</country><episode-num system="onscreen">
-3042</episode-num><video>
-<present>
-yes</present><colour>
-yes</colour><aspect>
-4:3</aspect><quality>
-HD Level Unknown</quality></video><audio>
-<present>
-yes</present><stereo>
-N</stereo></audio><rating system="CTV">
-<value>
-PG</value></rating><generic_attrs name="CaptionType">
-CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
-N</generic_attrs><seriesId>
-6752602</seriesId></programme><programme Ericsson_ProgramId="10093_20140310140000_19515159" channel="10093" start="20140310140000 +0000" stop="20140310150000 +0000">
-<title lang="en">
-Dual Suspects</title><sub-title lang="en">
-Murder Italian Style</sub-title><desc lang="en">
-The murder of a British exchange student in Italy is investigated.</desc><credits/>
+Satellite News</title><sub-title lang="en"/>
+<credits/>
 <date/>
 <category lang="en">
-documentary</category><category lang="en">
-crime</category><category lang="en">
-docudrama</category><language>
+newscast</category><language>
 en</language><orig-language>
 en</orig-language><length units="minutes">
-60</length><country>
-US</country><episode-num system="onscreen">
-11</episode-num><video>
+15</length><country>
+CA</country><episode-num system="onscreen"/>
+<video>
 <present>
 yes</present><colour>
 yes</colour><aspect>
 4:3</aspect><quality>
-HD Level Unknown</quality></video><audio>
+None</quality></video><audio>
 <present>
 yes</present><stereo>
 N</stereo></audio><rating system="CTV">
 <value>
-14+</value></rating><generic_attrs name="CaptionType">
-CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+none</value></rating><generic_attrs name="CaptionType">
+None</generic_attrs><generic_attrs name="DescriptiveVideoService">
 N</generic_attrs><seriesId>
-18888325</seriesId></programme><programme Ericsson_ProgramId="10093_20140310220000_19515159" channel="10093" start="20140310220000 +0000" stop="20140310230000 +0000">
+22367948</seriesId></programme><programme Ericsson_ProgramId="10025_20140310101500_22367948" channel="10025" start="20140310101500 +0000" stop="20140310110000 +0000">
 <title lang="en">
-Dual Suspects</title><sub-title lang="en">
-Murder Italian Style</sub-title><desc lang="en">
-The murder of a British exchange student in Italy is investigated.</desc><credits/>
+Satellite News</title><sub-title lang="en"/>
+<credits/>
 <date/>
 <category lang="en">
-documentary</category><category lang="en">
-crime</category><category lang="en">
-docudrama</category><language>
+newscast</category><language>
 en</language><orig-language>
 en</orig-language><length units="minutes">
-60</length><country>
-US</country><episode-num system="onscreen">
-11</episode-num><video>
+15</length><country>
+CA</country><episode-num system="onscreen"/>
+<video>
 <present>
 yes</present><colour>
 yes</colour><aspect>
 4:3</aspect><quality>
-HD Level Unknown</quality></video><audio>
+None</quality></video><audio>
 <present>
 yes</present><stereo>
 N</stereo></audio><rating system="CTV">
 <value>
-14+</value></rating><generic_attrs name="CaptionType">
-CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+none</value></rating><generic_attrs name="CaptionType">
+None</generic_attrs><generic_attrs name="DescriptiveVideoService">
 N</generic_attrs><seriesId>
-18888325</seriesId></programme><programme Ericsson_ProgramId="10093_20140311030000_19515159" channel="10093" start="20140311030000 +0000" stop="20140311040000 +0000">
+22367948</seriesId></programme><programme Ericsson_ProgramId="10025_20140310120000_22367948" channel="10025" start="20140310120000 +0000" stop="20140310123000 +0000">
 <title lang="en">
-Dual Suspects</title><sub-title lang="en">
-Murder Italian Style</sub-title><desc lang="en">
-The murder of a British exchange student in Italy is investigated.</desc><credits/>
+Satellite News</title><sub-title lang="en"/>
+<credits/>
 <date/>
 <category lang="en">
-documentary</category><category lang="en">
-crime</category><category lang="en">
-docudrama</category><language>
+newscast</category><language>
 en</language><orig-language>
 en</orig-language><length units="minutes">
-60</length><country>
-US</country><episode-num system="onscreen">
-11</episode-num><video>
+15</length><country>
+CA</country><episode-num system="onscreen"/>
+<video>
 <present>
 yes</present><colour>
 yes</colour><aspect>
 4:3</aspect><quality>
-HD Level Unknown</quality></video><audio>
+None</quality></video><audio>
 <present>
 yes</present><stereo>
 N</stereo></audio><rating system="CTV">
 <value>
-14+</value></rating><generic_attrs name="CaptionType">
-CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+none</value></rating><generic_attrs name="CaptionType">
+None</generic_attrs><generic_attrs name="DescriptiveVideoService">
 N</generic_attrs><seriesId>
-18888325</seriesId></programme><programme Ericsson_ProgramId="10093_20140310110000_19923072" channel="10093" start="20140310110000 +0000" stop="20140310120000 +0000">
+22367948</seriesId></programme><programme Ericsson_ProgramId="10025_20140310160000_22367948" channel="10025" start="20140310160000 +0000" stop="20140310163000 +0000">
 <title lang="en">
-Weird or What?</title><sub-title lang="en">
-Paranormal Mysteries</sub-title><desc lang="en">
-Parallel-dimension stories are told.</desc><credits/>
-<date>
-2011</date><category lang="en">
-documentary</category><language>
-en</language><orig-language>
-en</orig-language><length units="minutes">
-60</length><url>
-http://dsc.discovery.com/tv-schedules/series.html?paid=1.13896.26136.38897.3</url><country>
-US</country><episode-num system="onscreen">
-2017</episode-num><video>
-<present>
-yes</present><colour>
-yes</colour><aspect>
-4:3</aspect><quality>
-HD Level Unknown</quality></video><audio>
-<present>
-yes</present><stereo>
-N</stereo></audio><rating system="CTV">
-<value>
-PG</value></rating><generic_attrs name="CaptionType">
-CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
-N</generic_attrs><seriesId>
-14974106</seriesId></programme><programme Ericsson_ProgramId="10093_20140310150000_19923072" channel="10093" start="20140310150000 +0000" stop="20140310160000 +0000">
-<title lang="en">
-Weird or What?</title><sub-title lang="en">
-Paranormal Mysteries</sub-title><desc lang="en">
-Parallel-dimension stories are told.</desc><credits/>
-<date>
-2011</date><category lang="en">
-documentary</category><language>
-en</language><orig-language>
-en</orig-language><length units="minutes">
-60</length><url>
-http://dsc.discovery.com/tv-schedules/series.html?paid=1.13896.26136.38897.3</url><country>
-US</country><episode-num system="onscreen">
-2017</episode-num><video>
-<present>
-yes</present><colour>
-yes</colour><aspect>
-4:3</aspect><quality>
-HD Level Unknown</quality></video><audio>
-<present>
-yes</present><stereo>
-N</stereo></audio><rating system="CTV">
-<value>
-PG</value></rating><generic_attrs name="CaptionType">
-CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
-N</generic_attrs><seriesId>
-14974106</seriesId></programme><programme Ericsson_ProgramId="10093_20140310230000_19923072" channel="10093" start="20140310230000 +0000" stop="20140311000000 +0000">
-<title lang="en">
-Weird or What?</title><sub-title lang="en">
-Paranormal Mysteries</sub-title><desc lang="en">
-Parallel-dimension stories are told.</desc><credits/>
-<date>
-2011</date><category lang="en">
-documentary</category><language>
-en</language><orig-language>
-en</orig-language><length units="minutes">
-60</length><url>
-http://dsc.discovery.com/tv-schedules/series.html?paid=1.13896.26136.38897.3</url><country>
-US</country><episode-num system="onscreen">
-2017</episode-num><video>
-<present>
-yes</present><colour>
-yes</colour><aspect>
-4:3</aspect><quality>
-HD Level Unknown</quality></video><audio>
-<present>
-yes</present><stereo>
-N</stereo></audio><rating system="CTV">
-<value>
-PG</value></rating><generic_attrs name="CaptionType">
-CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
-N</generic_attrs><seriesId>
-14974106</seriesId></programme><programme Ericsson_ProgramId="10093_20140311110000_19936157" channel="10093" start="20140311110000 +0000" stop="20140311120000 +0000">
-<title lang="en">
-Weird or What?</title><sub-title lang="en">
-Medical Mysteries</sub-title><desc lang="en">
-Inexplicable medical stories are examined.</desc><credits/>
-<date>
-2011</date><category lang="en">
-documentary</category><language>
-en</language><orig-language>
-en</orig-language><length units="minutes">
-60</length><url>
-http://dsc.discovery.com/tv-schedules/series.html?paid=1.13896.26136.38897.3</url><country>
-US</country><episode-num system="onscreen">
-2018</episode-num><video>
-<present>
-yes</present><colour>
-yes</colour><aspect>
-4:3</aspect><quality>
-HD Level Unknown</quality></video><audio>
-<present>
-yes</present><stereo>
-N</stereo></audio><rating system="CTV">
-<value>
-PG</value></rating><generic_attrs name="CaptionType">
-CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
-N</generic_attrs><seriesId>
-14974106</seriesId></programme><programme Ericsson_ProgramId="10093_20140311150000_19936157" channel="10093" start="20140311150000 +0000" stop="20140311160000 +0000">
-<title lang="en">
-Weird or What?</title><sub-title lang="en">
-Medical Mysteries</sub-title><desc lang="en">
-Inexplicable medical stories are examined.</desc><credits/>
-<date>
-2011</date><category lang="en">
-documentary</category><language>
-en</language><orig-language>
-en</orig-language><length units="minutes">
-60</length><url>
-http://dsc.discovery.com/tv-schedules/series.html?paid=1.13896.26136.38897.3</url><country>
-US</country><episode-num system="onscreen">
-2018</episode-num><video>
-<present>
-yes</present><colour>
-yes</colour><aspect>
-4:3</aspect><quality>
-HD Level Unknown</quality></video><audio>
-<present>
-yes</present><stereo>
-N</stereo></audio><rating system="CTV">
-<value>
-PG</value></rating><generic_attrs name="CaptionType">
-CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
-N</generic_attrs><seriesId>
-14974106</seriesId></programme><programme Ericsson_ProgramId="10093_20140311230000_19936157" channel="10093" start="20140311230000 +0000" stop="20140312000000 +0000">
-<title lang="en">
-Weird or What?</title><sub-title lang="en">
-Medical Mysteries</sub-title><desc lang="en">
-Inexplicable medical stories are examined.</desc><credits/>
-<date>
-2011</date><category lang="en">
-documentary</category><language>
-en</language><orig-language>
-en</orig-language><length units="minutes">
-60</length><url>
-http://dsc.discovery.com/tv-schedules/series.html?paid=1.13896.26136.38897.3</url><country>
-US</country><episode-num system="onscreen">
-2018</episode-num><video>
-<present>
-yes</present><colour>
-yes</colour><aspect>
-4:3</aspect><quality>
-HD Level Unknown</quality></video><audio>
-<present>
-yes</present><stereo>
-N</stereo></audio><rating system="CTV">
-<value>
-PG</value></rating><generic_attrs name="CaptionType">
-CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
-N</generic_attrs><seriesId>
-14974106</seriesId></programme><programme Ericsson_ProgramId="10093_20140310130000_20109442" channel="10093" start="20140310130000 +0000" stop="20140310140000 +0000">
-<title lang="en">
-Ice Pilots NWT</title><sub-title lang="en">
-Ice Strip</sub-title><desc lang="en">
-An ice landing strip is made at a mining camp.</desc><credits/>
-<date>
-2012</date><category lang="en">
-reality</category><category lang="en">
-aviation</category><language>
-en</language><orig-language>
-en</orig-language><length units="minutes">
-60</length><url>
-http://www.icepilots.com/show.php</url><country>
-CA</country><episode-num system="onscreen">
-3037</episode-num><video>
-<present>
-yes</present><colour>
-yes</colour><aspect>
-4:3</aspect><quality>
-HD Level Unknown</quality></video><audio>
-<present>
-yes</present><stereo>
-N</stereo></audio><rating system="CTV">
-<value>
-PG</value></rating><generic_attrs name="CaptionType">
-CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
-N</generic_attrs><seriesId>
-13189334</seriesId></programme><programme Ericsson_ProgramId="10093_20140311130000_20135621" channel="10093" start="20140311130000 +0000" stop="20140311140000 +0000">
-<title lang="en">
-Ice Pilots NWT</title><sub-title lang="en">
-Expect the Unexpected</sub-title><desc lang="en">
-The C-46 has engine trouble; a pilot trains in a water bomber, then joins the water-bombing crews.</desc><credits/>
+Satellite News</title><sub-title lang="en"/>
+<credits/>
 <date/>
 <category lang="en">
-reality</category><category lang="en">
-aviation</category><language>
+newscast</category><language>
 en</language><orig-language>
 en</orig-language><length units="minutes">
-60</length><url>
-http://www.icepilots.com/show.php</url><country>
-CA</country><episode-num system="onscreen">
-3038</episode-num><video>
-<present>
-yes</present><colour>
-yes</colour><aspect>
-4:3</aspect><quality>
-HD Level Unknown</quality></video><audio>
-<present>
-yes</present><stereo>
-N</stereo></audio><rating system="CTV">
-<value>
-PG</value></rating><generic_attrs name="CaptionType">
-CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
-N</generic_attrs><seriesId>
-13189334</seriesId></programme><programme Ericsson_ProgramId="10093_20140310200000_21512080" channel="10093" start="20140310200000 +0000" stop="20140310210000 +0000">
-<title lang="en">
-America Unearthed</title><sub-title lang="en">
-Mystery of Roanoke</sub-title><desc lang="en">
-Scott examines stones that may hold clues about the fate of the lost colony of Roanoke.</desc><credits/>
-<date>
-2013</date><category lang="en">
-documentary</category><category lang="en">
-history</category><language>
-en</language><orig-language>
-en</orig-language><length units="minutes">
-60</length><country>
-US</country><episode-num system="onscreen"/>
+15</length><country>
+CA</country><episode-num system="onscreen"/>
 <video>
 <present>
 yes</present><colour>
@@ -641,22 +279,20 @@ None</quality></video><audio>
 yes</present><stereo>
 N</stereo></audio><rating system="CTV">
 <value>
-PG</value></rating><generic_attrs name="CaptionType">
-CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+none</value></rating><generic_attrs name="CaptionType">
+None</generic_attrs><generic_attrs name="DescriptiveVideoService">
 N</generic_attrs><seriesId>
-21315661</seriesId></programme><programme Ericsson_ProgramId="10093_20140311060000_21512080" channel="10093" start="20140311060000 +0000" stop="20140311070000 +0000">
+22367948</seriesId></programme><programme Ericsson_ProgramId="10025_20140310163000_22367948" channel="10025" start="20140310163000 +0000" stop="20140310170000 +0000">
 <title lang="en">
-America Unearthed</title><sub-title lang="en">
-Mystery of Roanoke</sub-title><desc lang="en">
-Scott examines stones that may hold clues about the fate of the lost colony of Roanoke.</desc><credits/>
-<date>
-2013</date><category lang="en">
-documentary</category><category lang="en">
-history</category><language>
+Satellite News</title><sub-title lang="en"/>
+<credits/>
+<date/>
+<category lang="en">
+newscast</category><language>
 en</language><orig-language>
 en</orig-language><length units="minutes">
-60</length><country>
-US</country><episode-num system="onscreen"/>
+15</length><country>
+CA</country><episode-num system="onscreen"/>
 <video>
 <present>
 yes</present><colour>
@@ -667,22 +303,19 @@ None</quality></video><audio>
 yes</present><stereo>
 N</stereo></audio><rating system="CTV">
 <value>
-PG</value></rating><generic_attrs name="CaptionType">
-CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+none</value></rating><generic_attrs name="CaptionType">
+None</generic_attrs><generic_attrs name="DescriptiveVideoService">
 N</generic_attrs><seriesId>
-21315661</seriesId></programme><programme Ericsson_ProgramId="10093_20140311090000_21512080" channel="10093" start="20140311090000 +0000" stop="20140311100000 +0000">
+22367948</seriesId></programme><programme Ericsson_ProgramId="10025_20140310140000_22367959" channel="10025" start="20140310140000 +0000" stop="20140310143000 +0000">
 <title lang="en">
-America Unearthed</title><sub-title lang="en">
-Mystery of Roanoke</sub-title><desc lang="en">
-Scott examines stones that may hold clues about the fate of the lost colony of Roanoke.</desc><credits/>
-<date>
-2013</date><category lang="en">
-documentary</category><category lang="en">
-history</category><language>
+Travelogue</title><sub-title lang="en"/>
+<credits/>
+<date/>
+<language>
 en</language><orig-language>
 en</orig-language><length units="minutes">
-60</length><country>
-US</country><episode-num system="onscreen"/>
+0</length><country>
+CA</country><episode-num system="onscreen"/>
 <video>
 <present>
 yes</present><colour>
@@ -693,626 +326,21 @@ None</quality></video><audio>
 yes</present><stereo>
 N</stereo></audio><rating system="CTV">
 <value>
-PG</value></rating><generic_attrs name="CaptionType">
-CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+none</value></rating><generic_attrs name="CaptionType">
+None</generic_attrs><generic_attrs name="DescriptiveVideoService">
 N</generic_attrs><seriesId>
-21315661</seriesId></programme><programme Ericsson_ProgramId="10093_20140310160000_22072529" channel="10093" start="20140310160000 +0000" stop="20140310170000 +0000">
+22367959</seriesId></programme><programme Ericsson_ProgramId="10025_20140310123000_22804499" channel="10025" start="20140310123000 +0000" stop="20140310130000 +0000">
 <title lang="en">
-How Sex Changed the World</title><sub-title lang="en">
-Superheroes of Sex</sub-title><desc lang="en">
-Studiers of sex are profiled.</desc><credits/>
-<date>
-2013</date><category lang="en">
-documentary</category><category lang="en">
-history</category><category lang="en">
-profile</category><language>
-en</language><orig-language>
-en</orig-language><length units="minutes">
-60</length><country>
-US</country><episode-num system="onscreen"/>
-<video>
-<present>
-yes</present><colour>
-yes</colour><aspect>
-4:3</aspect><quality>
-None</quality></video><audio>
-<present>
-yes</present><stereo>
-N</stereo></audio><rating system="CTV">
-<value>
-14+</value></rating><generic_attrs name="CaptionType">
-CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
-N</generic_attrs><seriesId>
-21824339</seriesId></programme><programme Ericsson_ProgramId="10093_20140311070000_22072529" channel="10093" start="20140311070000 +0000" stop="20140311080000 +0000">
-<title lang="en">
-How Sex Changed the World</title><sub-title lang="en">
-Superheroes of Sex</sub-title><desc lang="en">
-Studiers of sex are profiled.</desc><credits/>
-<date>
-2013</date><category lang="en">
-documentary</category><category lang="en">
-history</category><category lang="en">
-profile</category><language>
-en</language><orig-language>
-en</orig-language><length units="minutes">
-60</length><country>
-US</country><episode-num system="onscreen"/>
-<video>
-<present>
-yes</present><colour>
-yes</colour><aspect>
-4:3</aspect><quality>
-None</quality></video><audio>
-<present>
-yes</present><stereo>
-N</stereo></audio><rating system="CTV">
-<value>
-14+</value></rating><generic_attrs name="CaptionType">
-CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
-N</generic_attrs><seriesId>
-21824339</seriesId></programme><programme Ericsson_ProgramId="10093_20140311160000_22360179" channel="10093" start="20140311160000 +0000" stop="20140311170000 +0000">
-<title lang="en">
-Haunted History</title><sub-title lang="en">
-A Deadly Possession</sub-title><desc lang="en">
-The history of an allegedly haunted wine box is traced.</desc><credits/>
-<date>
-2013</date><category lang="en">
-paranormal</category><category lang="en">
-documentary</category><category lang="en">
-history</category><language>
-en</language><orig-language>
-en</orig-language><length units="minutes">
-60</length><country>
-US</country><episode-num system="onscreen"/>
-<video>
-<present>
-yes</present><colour>
-yes</colour><aspect>
-4:3</aspect><quality>
-None</quality></video><audio>
-<present>
-yes</present><stereo>
-N</stereo></audio><rating system="CTV">
-<value>
-PG</value></rating><generic_attrs name="CaptionType">
-CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
-N</generic_attrs><seriesId>
-22290790</seriesId></programme><programme Ericsson_ProgramId="10093_20140311200000_22360179" channel="10093" start="20140311200000 +0000" stop="20140311210000 +0000">
-<title lang="en">
-Haunted History</title><sub-title lang="en">
-A Deadly Possession</sub-title><desc lang="en">
-The history of an allegedly haunted wine box is traced.</desc><credits/>
-<date>
-2013</date><category lang="en">
-paranormal</category><category lang="en">
-documentary</category><category lang="en">
-history</category><language>
-en</language><orig-language>
-en</orig-language><length units="minutes">
-60</length><country>
-US</country><episode-num system="onscreen"/>
-<video>
-<present>
-yes</present><colour>
-yes</colour><aspect>
-4:3</aspect><quality>
-None</quality></video><audio>
-<present>
-yes</present><stereo>
-N</stereo></audio><rating system="CTV">
-<value>
-PG</value></rating><generic_attrs name="CaptionType">
-CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
-N</generic_attrs><seriesId>
-22290790</seriesId></programme><programme Ericsson_ProgramId="10093_20140312070000_22360179" channel="10093" start="20140312070000 +0000" stop="20140312080000 +0000">
-<title lang="en">
-Haunted History</title><sub-title lang="en">
-A Deadly Possession</sub-title><desc lang="en">
-The history of an allegedly haunted wine box is traced.</desc><credits/>
-<date>
-2013</date><category lang="en">
-paranormal</category><category lang="en">
-documentary</category><category lang="en">
-history</category><language>
-en</language><orig-language>
-en</orig-language><length units="minutes">
-60</length><country>
-US</country><episode-num system="onscreen"/>
-<video>
-<present>
-yes</present><colour>
-yes</colour><aspect>
-4:3</aspect><quality>
-None</quality></video><audio>
-<present>
-yes</present><stereo>
-N</stereo></audio><rating system="CTV">
-<value>
-PG</value></rating><generic_attrs name="CaptionType">
-CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
-N</generic_attrs><seriesId>
-22290790</seriesId></programme><programme Ericsson_ProgramId="10093_20140310180000_22898846" channel="10093" start="20140310180000 +0000" stop="20140310190000 +0000">
-<title lang="en">
-Ancient Aliens</title><sub-title lang="en">
-Mysterious Relics</sub-title><desc lang="en">
-Examining ancient relics that are thought to possess otherworldly powers.</desc><credits/>
-<date>
-2013</date><category lang="en">
-documentary</category><language>
-en</language><orig-language>
-en</orig-language><length units="minutes">
-60</length><country>
-US</country><episode-num system="onscreen"/>
-<video>
-<present>
-yes</present><colour>
-yes</colour><aspect>
-4:3</aspect><quality>
-None</quality></video><audio>
-<present>
-yes</present><stereo>
-N</stereo></audio><rating system="CTV">
-<value>
-PG</value></rating><generic_attrs name="CaptionType">
-CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
-N</generic_attrs><seriesId>
-14959948</seriesId></programme><programme Ericsson_ProgramId="10093_20140311010000_22898846" channel="10093" start="20140311010000 +0000" stop="20140311020000 +0000">
-<title lang="en">
-Ancient Aliens</title><sub-title lang="en">
-Mysterious Relics</sub-title><desc lang="en">
-Examining ancient relics that are thought to possess otherworldly powers.</desc><credits/>
-<date>
-2013</date><category lang="en">
-documentary</category><language>
-en</language><orig-language>
-en</orig-language><length units="minutes">
-60</length><country>
-US</country><episode-num system="onscreen"/>
-<video>
-<present>
-yes</present><colour>
-yes</colour><aspect>
-4:3</aspect><quality>
-None</quality></video><audio>
-<present>
-yes</present><stereo>
-N</stereo></audio><rating system="CTV">
-<value>
-PG</value></rating><generic_attrs name="CaptionType">
-CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
-N</generic_attrs><seriesId>
-14959948</seriesId></programme><programme Ericsson_ProgramId="10093_20140311040000_22898846" channel="10093" start="20140311040000 +0000" stop="20140311050000 +0000">
-<title lang="en">
-Ancient Aliens</title><sub-title lang="en">
-Mysterious Relics</sub-title><desc lang="en">
-Examining ancient relics that are thought to possess otherworldly powers.</desc><credits/>
-<date>
-2013</date><category lang="en">
-documentary</category><language>
-en</language><orig-language>
-en</orig-language><length units="minutes">
-60</length><country>
-US</country><episode-num system="onscreen"/>
-<video>
-<present>
-yes</present><colour>
-yes</colour><aspect>
-4:3</aspect><quality>
-None</quality></video><audio>
-<present>
-yes</present><stereo>
-N</stereo></audio><rating system="CTV">
-<value>
-PG</value></rating><generic_attrs name="CaptionType">
-CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
-N</generic_attrs><seriesId>
-14959948</seriesId></programme><programme Ericsson_ProgramId="10093_20140311190000_23434291" channel="10093" start="20140311190000 +0000" stop="20140311200000 +0000">
-<title lang="en">
-America Unearthed</title><sub-title lang="en">
-Lincoln's Secret Assassins</sub-title><desc lang="en">
-A theory about the motive behind Abraham Lincoln's assassination is examined.</desc><credits/>
-<date>
-2014</date><category lang="en">
-documentary</category><category lang="en">
-history</category><language>
-en</language><orig-language>
-en</orig-language><length units="minutes">
-60</length><country>
-US</country><episode-num system="onscreen"/>
-<video>
-<present>
-yes</present><colour>
-yes</colour><aspect>
-4:3</aspect><quality>
-None</quality></video><audio>
-<present>
-yes</present><stereo>
-N</stereo></audio><rating system="CTV">
-<value>
-PG</value></rating><generic_attrs name="CaptionType">
-CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
-N</generic_attrs><seriesId>
-21315661</seriesId></programme><programme Ericsson_ProgramId="10093_20140312020000_23434291" channel="10093" start="20140312020000 +0000" stop="20140312030000 +0000">
-<title lang="en">
-America Unearthed</title><sub-title lang="en">
-Lincoln's Secret Assassins</sub-title><desc lang="en">
-A theory about the motive behind Abraham Lincoln's assassination is examined.</desc><credits/>
-<date>
-2014</date><category lang="en">
-documentary</category><category lang="en">
-history</category><language>
-en</language><orig-language>
-en</orig-language><length units="minutes">
-60</length><country>
-US</country><episode-num system="onscreen"/>
-<video>
-<present>
-yes</present><colour>
-yes</colour><aspect>
-4:3</aspect><quality>
-None</quality></video><audio>
-<present>
-yes</present><stereo>
-N</stereo></audio><rating system="CTV">
-<value>
-PG</value></rating><generic_attrs name="CaptionType">
-CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
-N</generic_attrs><seriesId>
-21315661</seriesId></programme><programme Ericsson_ProgramId="10093_20140312050000_23434291" channel="10093" start="20140312050000 +0000" stop="20140312060000 +0000">
-<title lang="en">
-America Unearthed</title><sub-title lang="en">
-Lincoln's Secret Assassins</sub-title><desc lang="en">
-A theory about the motive behind Abraham Lincoln's assassination is examined.</desc><credits/>
-<date>
-2014</date><category lang="en">
-documentary</category><category lang="en">
-history</category><language>
-en</language><orig-language>
-en</orig-language><length units="minutes">
-60</length><country>
-US</country><episode-num system="onscreen"/>
-<video>
-<present>
-yes</present><colour>
-yes</colour><aspect>
-4:3</aspect><quality>
-None</quality></video><audio>
-<present>
-yes</present><stereo>
-N</stereo></audio><rating system="CTV">
-<value>
-PG</value></rating><generic_attrs name="CaptionType">
-CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
-N</generic_attrs><seriesId>
-21315661</seriesId></programme><programme Ericsson_ProgramId="10093_20140311180000_23640431" channel="10093" start="20140311180000 +0000" stop="20140311190000 +0000">
-<title lang="en">
-The Universe: Ancient Mysteries Solved</title><sub-title lang="en">
-Pyramids</sub-title><desc lang="en">
-The Great Pyramids of Giza are examined. Included: theories about how the pyramids were built and their original purpose in Egyptian culture.</desc><credits/>
-<date>
-2014</date><category lang="en">
-history</category><language>
-en</language><orig-language>
-en</orig-language><length units="minutes">
-60</length><country>
-US</country><episode-num system="onscreen"/>
-<video>
-<present>
-yes</present><colour>
-yes</colour><aspect>
-4:3</aspect><quality>
-None</quality></video><audio>
-<present>
-yes</present><stereo>
-N</stereo></audio><rating system="CTV">
-<value>
-PG</value></rating><generic_attrs name="CaptionType">
-CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
-N</generic_attrs><seriesId>
-23661924</seriesId></programme><programme Ericsson_ProgramId="10093_20140312010000_23640431" channel="10093" start="20140312010000 +0000" stop="20140312020000 +0000">
-<title lang="en">
-The Universe: Ancient Mysteries Solved</title><sub-title lang="en">
-Pyramids</sub-title><desc lang="en">
-The Great Pyramids of Giza are examined. Included: theories about how the pyramids were built and their original purpose in Egyptian culture.</desc><credits/>
-<date>
-2014</date><category lang="en">
-history</category><language>
-en</language><orig-language>
-en</orig-language><length units="minutes">
-60</length><country>
-US</country><episode-num system="onscreen"/>
-<video>
-<present>
-yes</present><colour>
-yes</colour><aspect>
-4:3</aspect><quality>
-None</quality></video><audio>
-<present>
-yes</present><stereo>
-N</stereo></audio><rating system="CTV">
-<value>
-PG</value></rating><generic_attrs name="CaptionType">
-CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
-N</generic_attrs><seriesId>
-23661924</seriesId></programme><programme Ericsson_ProgramId="10093_20140312040000_23640431" channel="10093" start="20140312040000 +0000" stop="20140312050000 +0000">
-<title lang="en">
-The Universe: Ancient Mysteries Solved</title><sub-title lang="en">
-Pyramids</sub-title><desc lang="en">
-The Great Pyramids of Giza are examined. Included: theories about how the pyramids were built and their original purpose in Egyptian culture.</desc><credits/>
-<date>
-2014</date><category lang="en">
-history</category><language>
-en</language><orig-language>
-en</orig-language><length units="minutes">
-60</length><country>
-US</country><episode-num system="onscreen"/>
-<video>
-<present>
-yes</present><colour>
-yes</colour><aspect>
-4:3</aspect><quality>
-None</quality></video><audio>
-<present>
-yes</present><stereo>
-N</stereo></audio><rating system="CTV">
-<value>
-PG</value></rating><generic_attrs name="CaptionType">
-CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
-N</generic_attrs><seriesId>
-23661924</seriesId></programme><programme Ericsson_ProgramId="10093_20140311170000_7075368" channel="10093" start="20140311170000 +0000" stop="20140311180000 +0000">
-<title lang="en">
-Modern Marvels</title><sub-title lang="en">
-Acid</sub-title><desc lang="en">
-The history and many uses of acid are explored. Included: the military's use of acid in making explosives; the application of sulfuric acid to stainless steel; acid in the etching process; and how it dissolves precious metals. Also: a visit to the Heinz vinegar plant.</desc><credits/>
-<date>
-2007</date><category lang="en">
-documentary</category><category lang="en">
-science</category><language>
-en</language><orig-language>
-en</orig-language><length units="minutes">
-60</length><country>
-GB</country><country>
-US</country><episode-num system="onscreen"/>
-<video>
-<present>
-yes</present><colour>
-yes</colour><aspect>
-4:3</aspect><quality>
-HD Level Unknown</quality></video><audio>
-<present>
-yes</present><stereo>
-N</stereo></audio><rating system="CTV">
-<value>
-PG</value></rating><generic_attrs name="CaptionType">
-CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
-N</generic_attrs><seriesId>
-14265</seriesId></programme><programme Ericsson_ProgramId="10093_20140311210000_7075368" channel="10093" start="20140311210000 +0000" stop="20140311220000 +0000">
-<title lang="en">
-Modern Marvels</title><sub-title lang="en">
-Acid</sub-title><desc lang="en">
-The history and many uses of acid are explored. Included: the military's use of acid in making explosives; the application of sulfuric acid to stainless steel; acid in the etching process; and how it dissolves precious metals. Also: a visit to the Heinz vinegar plant.</desc><credits/>
-<date>
-2007</date><category lang="en">
-documentary</category><category lang="en">
-science</category><language>
-en</language><orig-language>
-en</orig-language><length units="minutes">
-60</length><country>
-GB</country><country>
-US</country><episode-num system="onscreen"/>
-<video>
-<present>
-yes</present><colour>
-yes</colour><aspect>
-4:3</aspect><quality>
-HD Level Unknown</quality></video><audio>
-<present>
-yes</present><stereo>
-N</stereo></audio><rating system="CTV">
-<value>
-PG</value></rating><generic_attrs name="CaptionType">
-CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
-N</generic_attrs><seriesId>
-14265</seriesId></programme><programme Ericsson_ProgramId="10093_20140312000000_7075368" channel="10093" start="20140312000000 +0000" stop="20140312010000 +0000">
-<title lang="en">
-Modern Marvels</title><sub-title lang="en">
-Acid</sub-title><desc lang="en">
-The history and many uses of acid are explored. Included: the military's use of acid in making explosives; the application of sulfuric acid to stainless steel; acid in the etching process; and how it dissolves precious metals. Also: a visit to the Heinz vinegar plant.</desc><credits/>
-<date>
-2007</date><category lang="en">
-documentary</category><category lang="en">
-science</category><language>
-en</language><orig-language>
-en</orig-language><length units="minutes">
-60</length><country>
-GB</country><country>
-US</country><episode-num system="onscreen"/>
-<video>
-<present>
-yes</present><colour>
-yes</colour><aspect>
-4:3</aspect><quality>
-HD Level Unknown</quality></video><audio>
-<present>
-yes</present><stereo>
-N</stereo></audio><rating system="CTV">
-<value>
-PG</value></rating><generic_attrs name="CaptionType">
-CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
-N</generic_attrs><seriesId>
-14265</seriesId></programme><programme Ericsson_ProgramId="10093_20140310190000_7083481" channel="10093" start="20140310190000 +0000" stop="20140310200000 +0000">
-<title lang="en">
-Modern Marvels</title><sub-title lang="en">
-World's Sharpest</sub-title><desc lang="en">
-The world's sharpest things are examined. Included: Samurai swords; industrial shredders that can cut through a refrigerator; laser and plasma cutters.</desc><credits/>
-<date>
-2007</date><category lang="en">
-documentary</category><category lang="en">
-science</category><category lang="en">
-family</category><language>
-en</language><orig-language>
-en</orig-language><length units="minutes">
-60</length><country>
-US</country><episode-num system="onscreen"/>
-<video>
-<present>
-yes</present><colour>
-yes</colour><aspect>
-4:3</aspect><quality>
-HD Level Unknown</quality></video><audio>
-<present>
-yes</present><stereo>
-N</stereo></audio><rating system="CTV">
-<value>
-PG</value></rating><generic_attrs name="CaptionType">
-CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
-N</generic_attrs><seriesId>
-14265</seriesId></programme><programme Ericsson_ProgramId="10093_20140311020000_7083481" channel="10093" start="20140311020000 +0000" stop="20140311030000 +0000">
-<title lang="en">
-Modern Marvels</title><sub-title lang="en">
-World's Sharpest</sub-title><desc lang="en">
-The world's sharpest things are examined. Included: Samurai swords; industrial shredders that can cut through a refrigerator; laser and plasma cutters.</desc><credits/>
-<date>
-2007</date><category lang="en">
-documentary</category><category lang="en">
-science</category><category lang="en">
-family</category><language>
-en</language><orig-language>
-en</orig-language><length units="minutes">
-60</length><country>
-US</country><episode-num system="onscreen"/>
-<video>
-<present>
-yes</present><colour>
-yes</colour><aspect>
-4:3</aspect><quality>
-HD Level Unknown</quality></video><audio>
-<present>
-yes</present><stereo>
-N</stereo></audio><rating system="CTV">
-<value>
-PG</value></rating><generic_attrs name="CaptionType">
-CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
-N</generic_attrs><seriesId>
-14265</seriesId></programme><programme Ericsson_ProgramId="10093_20140311050000_7083481" channel="10093" start="20140311050000 +0000" stop="20140311060000 +0000">
-<title lang="en">
-Modern Marvels</title><sub-title lang="en">
-World's Sharpest</sub-title><desc lang="en">
-The world's sharpest things are examined. Included: Samurai swords; industrial shredders that can cut through a refrigerator; laser and plasma cutters.</desc><credits/>
-<date>
-2007</date><category lang="en">
-documentary</category><category lang="en">
-science</category><category lang="en">
-family</category><language>
-en</language><orig-language>
-en</orig-language><length units="minutes">
-60</length><country>
-US</country><episode-num system="onscreen"/>
-<video>
-<present>
-yes</present><colour>
-yes</colour><aspect>
-4:3</aspect><quality>
-HD Level Unknown</quality></video><audio>
-<present>
-yes</present><stereo>
-N</stereo></audio><rating system="CTV">
-<value>
-PG</value></rating><generic_attrs name="CaptionType">
-CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
-N</generic_attrs><seriesId>
-14265</seriesId></programme><programme Ericsson_ProgramId="10093_20140310170000_7083483" channel="10093" start="20140310170000 +0000" stop="20140310180000 +0000">
-<title lang="en">
-Modern Marvels</title><sub-title lang="en">
-Engineering Disasters 21</sub-title><desc lang="en">
-Engineering disasters are recalled. Included: a steam-pipe explosion in Manhattan; a tunnel-ceiling collapse on a Boston highway; the crash of a helicopter on Germany's autobahn; and a tanker-truck explosion on a freeway overpass in Oakland.</desc><credits/>
-<date>
-2007</date><category lang="en">
-documentary</category><category lang="en">
-science</category><language>
-en</language><orig-language>
-en</orig-language><length units="minutes">
-60</length><country>
-US</country><episode-num system="onscreen"/>
-<video>
-<present>
-yes</present><colour>
-yes</colour><aspect>
-4:3</aspect><quality>
-None</quality></video><audio>
-<present>
-yes</present><stereo>
-N</stereo></audio><rating system="CTV">
-<value>
-PG</value></rating><generic_attrs name="CaptionType">
-CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
-N</generic_attrs><seriesId>
-14265</seriesId></programme><programme Ericsson_ProgramId="10093_20140310210000_7083483" channel="10093" start="20140310210000 +0000" stop="20140310220000 +0000">
-<title lang="en">
-Modern Marvels</title><sub-title lang="en">
-Engineering Disasters 21</sub-title><desc lang="en">
-Engineering disasters are recalled. Included: a steam-pipe explosion in Manhattan; a tunnel-ceiling collapse on a Boston highway; the crash of a helicopter on Germany's autobahn; and a tanker-truck explosion on a freeway overpass in Oakland.</desc><credits/>
-<date>
-2007</date><category lang="en">
-documentary</category><category lang="en">
-science</category><language>
-en</language><orig-language>
-en</orig-language><length units="minutes">
-60</length><country>
-US</country><episode-num system="onscreen"/>
-<video>
-<present>
-yes</present><colour>
-yes</colour><aspect>
-4:3</aspect><quality>
-None</quality></video><audio>
-<present>
-yes</present><stereo>
-N</stereo></audio><rating system="CTV">
-<value>
-PG</value></rating><generic_attrs name="CaptionType">
-CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
-N</generic_attrs><seriesId>
-14265</seriesId></programme><programme Ericsson_ProgramId="10093_20140311000000_7083483" channel="10093" start="20140311000000 +0000" stop="20140311010000 +0000">
-<title lang="en">
-Modern Marvels</title><sub-title lang="en">
-Engineering Disasters 21</sub-title><desc lang="en">
-Engineering disasters are recalled. Included: a steam-pipe explosion in Manhattan; a tunnel-ceiling collapse on a Boston highway; the crash of a helicopter on Germany's autobahn; and a tanker-truck explosion on a freeway overpass in Oakland.</desc><credits/>
-<date>
-2007</date><category lang="en">
-documentary</category><category lang="en">
-science</category><language>
-en</language><orig-language>
-en</orig-language><length units="minutes">
-60</length><country>
-US</country><episode-num system="onscreen"/>
-<video>
-<present>
-yes</present><colour>
-yes</colour><aspect>
-4:3</aspect><quality>
-None</quality></video><audio>
-<present>
-yes</present><stereo>
-N</stereo></audio><rating system="CTV">
-<value>
-PG</value></rating><generic_attrs name="CaptionType">
-CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
-N</generic_attrs><seriesId>
-14265</seriesId></programme><programme Ericsson_ProgramId="10093_20140310100000_8453653" channel="10093" start="20140310100000 +0000" stop="20140310103000 +0000">
-<title lang="en">
-Ancestors in the Attic</title><sub-title lang="en">
-Mary</sub-title><desc lang="en">
-A woman who was adopted as an infant searches for her birth parents and travels to South Korea to find answers.</desc><credits/>
-<date>
-2008</date><category lang="en">
-documentary</category><category lang="en">
-history</category><language>
+Investigative Report</title><sub-title lang="en"/>
+<credits/>
+<date/>
+<category lang="en">
+public affairs</category><language>
 en</language><orig-language>
 en</orig-language><length units="minutes">
 30</length><country>
-CA</country><episode-num system="onscreen">
-3033</episode-num><video>
+CA</country><episode-num system="onscreen"/>
+<video>
 <present>
 yes</present><colour>
 yes</colour><aspect>
@@ -1322,23 +350,21 @@ None</quality></video><audio>
 yes</present><stereo>
 N</stereo></audio><rating system="CTV">
 <value>
-G</value></rating><generic_attrs name="CaptionType">
-CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+none</value></rating><generic_attrs name="CaptionType">
+None</generic_attrs><generic_attrs name="DescriptiveVideoService">
 N</generic_attrs><seriesId>
-5956013</seriesId></programme><programme Ericsson_ProgramId="10093_20140310103000_8643704" channel="10093" start="20140310103000 +0000" stop="20140310110000 +0000">
+22804499</seriesId></programme><programme Ericsson_ProgramId="10025_20140310130000_22804499" channel="10025" start="20140310130000 +0000" stop="20140310133000 +0000">
 <title lang="en">
-Ancestors in the Attic</title><sub-title lang="en">
-Spirit Lake</sub-title><desc lang="en">
-A man has questions about the Spirit Lake internment camp in Quebec.</desc><credits/>
-<date>
-2008</date><category lang="en">
-documentary</category><category lang="en">
-history</category><language>
+Investigative Report</title><sub-title lang="en"/>
+<credits/>
+<date/>
+<category lang="en">
+public affairs</category><language>
 en</language><orig-language>
 en</orig-language><length units="minutes">
 30</length><country>
-CA</country><episode-num system="onscreen">
-3034</episode-num><video>
+CA</country><episode-num system="onscreen"/>
+<video>
 <present>
 yes</present><colour>
 yes</colour><aspect>
@@ -1348,23 +374,21 @@ None</quality></video><audio>
 yes</present><stereo>
 N</stereo></audio><rating system="CTV">
 <value>
-G</value></rating><generic_attrs name="CaptionType">
-CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+none</value></rating><generic_attrs name="CaptionType">
+None</generic_attrs><generic_attrs name="DescriptiveVideoService">
 N</generic_attrs><seriesId>
-5956013</seriesId></programme><programme Ericsson_ProgramId="10093_20140311100000_9191531" channel="10093" start="20140311100000 +0000" stop="20140311103000 +0000">
+22804499</seriesId></programme><programme Ericsson_ProgramId="10025_20140310230000_22804499" channel="10025" start="20140310230000 +0000" stop="20140310233000 +0000">
 <title lang="en">
-Ancestors in the Attic</title><sub-title lang="en">
-Missing Daughter</sub-title><desc lang="en">
-A man searches for a friend's daughter who grew up as an orphan after her father was killed in World War II and her mother died of tuberculosis.</desc><credits/>
-<date>
-2008</date><category lang="en">
-documentary</category><category lang="en">
-history</category><language>
+Investigative Report</title><sub-title lang="en"/>
+<credits/>
+<date/>
+<category lang="en">
+public affairs</category><language>
 en</language><orig-language>
 en</orig-language><length units="minutes">
 30</length><country>
-CA</country><episode-num system="onscreen">
-3035</episode-num><video>
+CA</country><episode-num system="onscreen"/>
+<video>
 <present>
 yes</present><colour>
 yes</colour><aspect>
@@ -1374,23 +398,21 @@ None</quality></video><audio>
 yes</present><stereo>
 N</stereo></audio><rating system="CTV">
 <value>
-G</value></rating><generic_attrs name="CaptionType">
-CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+none</value></rating><generic_attrs name="CaptionType">
+None</generic_attrs><generic_attrs name="DescriptiveVideoService">
 N</generic_attrs><seriesId>
-5956013</seriesId></programme><programme Ericsson_ProgramId="10093_20140311103000_9654277" channel="10093" start="20140311103000 +0000" stop="20140311110000 +0000">
+22804499</seriesId></programme><programme Ericsson_ProgramId="10025_20140310233000_22804499" channel="10025" start="20140310233000 +0000" stop="20140311000000 +0000">
 <title lang="en">
-Ancestors in the Attic</title><sub-title lang="en">
-Missing Pieces</sub-title><desc lang="en">
-A man's search for his biological father's grave takes him on a trip to Japan.</desc><credits/>
-<date>
-2009</date><category lang="en">
-documentary</category><category lang="en">
-history</category><language>
+Investigative Report</title><sub-title lang="en"/>
+<credits/>
+<date/>
+<category lang="en">
+public affairs</category><language>
 en</language><orig-language>
 en</orig-language><length units="minutes">
 30</length><country>
-CA</country><episode-num system="onscreen">
-3036</episode-num><video>
+CA</country><episode-num system="onscreen"/>
+<video>
 <present>
 yes</present><colour>
 yes</colour><aspect>
@@ -1400,7 +422,261 @@ None</quality></video><audio>
 yes</present><stereo>
 N</stereo></audio><rating system="CTV">
 <value>
-G</value></rating><generic_attrs name="CaptionType">
-CC</generic_attrs><generic_attrs name="DescriptiveVideoService">
+none</value></rating><generic_attrs name="CaptionType">
+None</generic_attrs><generic_attrs name="DescriptiveVideoService">
 N</generic_attrs><seriesId>
-5956013</seriesId></programme>
+22804499</seriesId></programme><programme Ericsson_ProgramId="10025_20140310110000_22804509" channel="10025" start="20140310110000 +0000" stop="20140310113000 +0000">
+<title lang="en">
+Southern Daily News</title><sub-title lang="en"/>
+<credits/>
+<date/>
+<language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+30</length><country>
+CA</country><episode-num system="onscreen"/>
+<video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+none</value></rating><generic_attrs name="CaptionType">
+None</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+22804509</seriesId></programme><programme Ericsson_ProgramId="10025_20140310113000_22804509" channel="10025" start="20140310113000 +0000" stop="20140310120000 +0000">
+<title lang="en">
+Southern Daily News</title><sub-title lang="en"/>
+<credits/>
+<date/>
+<language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+30</length><country>
+CA</country><episode-num system="onscreen"/>
+<video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+none</value></rating><generic_attrs name="CaptionType">
+None</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+22804509</seriesId></programme><programme Ericsson_ProgramId="10025_20140310223000_22804517" channel="10025" start="20140310223000 +0000" stop="20140310230000 +0000">
+<title lang="en">
+Wowtv Cantonese News</title><sub-title lang="en"/>
+<credits/>
+<date/>
+<language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+30</length><country>
+CA</country><episode-num system="onscreen"/>
+<video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+none</value></rating><generic_attrs name="CaptionType">
+None</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+22804517</seriesId></programme><programme Ericsson_ProgramId="10025_20140310220000_22804518" channel="10025" start="20140310220000 +0000" stop="20140310223000 +0000">
+<title lang="en">
+Wowtv Mandarin News</title><sub-title lang="en"/>
+<credits/>
+<date/>
+<language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+30</length><country>
+CA</country><episode-num system="onscreen"/>
+<video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+none</value></rating><generic_attrs name="CaptionType">
+None</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+22804518</seriesId></programme><programme Ericsson_ProgramId="10025_20140310153000_22885536" channel="10025" start="20140310153000 +0000" stop="20140310160000 +0000">
+<title lang="en">
+Entertainment Gossips</title><sub-title lang="en"/>
+<credits/>
+<date/>
+<language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+30</length><country>
+CA</country><episode-num system="onscreen"/>
+<video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+none</value></rating><generic_attrs name="CaptionType">
+None</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+22885536</seriesId></programme><programme Ericsson_ProgramId="10025_20140310183000_23585006" channel="10025" start="20140310183000 +0000" stop="20140310184500 +0000">
+<title lang="en">
+The City</title><sub-title lang="en"/>
+<credits/>
+<date/>
+<language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+15</length><country>
+CA</country><episode-num system="onscreen"/>
+<video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+none</value></rating><generic_attrs name="CaptionType">
+None</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+23585006</seriesId></programme><programme Ericsson_ProgramId="10025_20140310190000_23724321" channel="10025" start="20140310190000 +0000" stop="20140310193000 +0000">
+<title lang="en">
+Classic Series Drama</title><sub-title lang="en"/>
+<credits/>
+<date/>
+<language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+30</length><country>
+CA</country><episode-num system="onscreen"/>
+<video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+none</value></rating><generic_attrs name="CaptionType">
+None</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+23724321</seriesId></programme><programme Ericsson_ProgramId="10025_20140310193000_23724321" channel="10025" start="20140310193000 +0000" stop="20140310200000 +0000">
+<title lang="en">
+Classic Series Drama</title><sub-title lang="en"/>
+<credits/>
+<date/>
+<language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+30</length><country>
+CA</country><episode-num system="onscreen"/>
+<video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+none</value></rating><generic_attrs name="CaptionType">
+None</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+23724321</seriesId></programme><programme Ericsson_ProgramId="10025_20140310180000_23724326" channel="10025" start="20140310180000 +0000" stop="20140310183000 +0000">
+<title lang="en">
+The Red Line/News Talk Com</title><sub-title lang="en"/>
+<credits/>
+<date/>
+<language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+30</length><country>
+CA</country><episode-num system="onscreen"/>
+<video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+none</value></rating><generic_attrs name="CaptionType">
+None</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+23724326</seriesId></programme><programme Ericsson_ProgramId="10025_20140310133000_2542188" channel="10025" start="20140310133000 +0000" stop="20140310140000 +0000">
+<title lang="en">
+Biz Asia</title><sub-title lang="en"/>
+<credits/>
+<date/>
+<category lang="en">
+newscast</category><category lang="en">
+business</category><language>
+en</language><orig-language>
+en</orig-language><length units="minutes">
+30</length><country>
+CN</country><episode-num system="onscreen"/>
+<video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+None</value></rating><generic_attrs name="CaptionType">
+None</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+2542188</seriesId></programme><programme Ericsson_ProgramId="10025_20140310150000_3885800" channel="10025" start="20140310150000 +0000" stop="20140310153000 +0000">
+<title lang="en">
+Real Story</title><sub-title lang="en"/>
+<credits/>
+<date/>
+<language>
+en</language><length units="minutes">
+30</length><country>
+CA</country><episode-num system="onscreen"/>
+<video>
+<present>
+yes</present><colour>
+yes</colour><aspect>
+4:3</aspect><quality>
+None</quality></video><audio>
+<present>
+yes</present><stereo>
+N</stereo></audio><rating system="CTV">
+<value>
+None</value></rating><generic_attrs name="CaptionType">
+None</generic_attrs><generic_attrs name="DescriptiveVideoService">
+N</generic_attrs><seriesId>
+3885800</seriesId></programme>
